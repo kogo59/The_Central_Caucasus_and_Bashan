@@ -5,8 +5,8 @@
 :::: fs-xs
 Introductory — Choosing a Dragoman — Djebel Mokattam — The Nile Steamer — The Mecca
 Caravan — Sail for Syria — A Poor Traveller — Struck by Lightning — Syrian Sloughs and
-Storms — The River Kishon — Arrival at Jerusalem — An Idea worked out — ߵVive la Mer
-Morte!ߴ — Jericho — We fall among Thieves — The Jordan Valley — Capture of a
+Storms — The River Kishon — Arrival at Jerusalem — An Idea worked out — ❛Vive la Mer
+Morte!❜ — Jericho — We fall among Thieves — The Jordan Valley — Capture of a
 Standard-bearer — Ferry of the Jordan.<br /><br />
 ::::
 
@@ -48,7 +48,7 @@ large quantities of Liebig’s soup—we left England on January 4th, 1868. We
 passed through the South of France in the most intense cold: at Avignon the
 Rhone was frozen from bank to bank, and the fountains at Marseilles were turned
 into masses of icicles. On January 8th we sailed for Egypt, on board the
-Messageries Imperiales’ steamer ߵPort Saidߴ with a miscellaneous batch of
+Messageries Imperiales’ steamer ❛Port Said❜ with a miscellaneous batch of
 passengers, including two French officers who were going to Abyssinia, two
 directors of the Suez Canal, Gerome the painter, the Viceroy of Egypt’s dentist,
 two missionary ladies bound for Jerusalem, and a party of Algerine Arabs on
@@ -111,13 +111,13 @@ forwards on his camel with the air of a tipsy Falstaff. A few hours later we
 bade adieu to Cairo and our Nile friends, and on the next day embarked at
 Alexandria for Syria.
 
-We had been asked to take out from England a long box, labelled ߵDelicate
-instruments—with careߴ for the use of Lieutenant Warren, the officer engaged in
-superintending the excavations lately undertaken by the ߵPalestine Exploration
-Committee.ߴ  On our leaving Alexandria the custom-house officer wanted to examine
+We had been asked to take out from England a long box, labelled ❛Delicate
+instruments—with care❜ for the use of Lieutenant Warren, the officer engaged in
+superintending the excavations lately undertaken by the ❛Palestine Exploration
+Committee.❜  On our leaving Alexandria the custom-house officer wanted to examine
 the box, and it was only by loud protests and threats of official vengeance that
 we saved the instruments from the risk of being spoiled by the Egyptians. This
-was the beginning of woes to these ߵdelicate instrumentsߴ which became
+was the beginning of woes to these ❛delicate instruments❜ which became
 celebrated characters with us during the next fortnight.
 
 We spent a day at Port Said, an utterly uninteresting town of third-class villa
@@ -136,7 +136,7 @@ being provided with a conductor, the vessel escaped injury, All that day we ran
 on through a big tumbling sea, and anchored at night in the roadstead of
 Beyrout.
 
-On Wednesday morning we disembarked, and went to the ߵHotel de Damasߵ. Our
+On Wednesday morning we disembarked, and went to the ❛Hotel de Damas❛. Our
 original plan, to land at Jaffa and go up direct to Jerusalem, had been thrown
 out by the storm, and new arrangements were necessary. Mr. Williams, one of our
 American friends, was in the same position, and now agreed to join us in our
@@ -180,7 +180,7 @@ muleteers stripped, and, entering the water, launched the obstinate little
 brutes, one by one, by main force. Once committed to the deep, they swam
 bravely, and emerged on the farther bank dripping and shaking their long ears as
 if, after all, they were the heroes of the day. An hour’s scamper over the sandy
-beach brought us to the mouth of ߵthat ancient river, the river Kishon.ߴ It was,
+beach brought us to the mouth of ❛that ancient river, the river Kishon.❜ It was,
 of course, flooded, and, considering the combination of difficulties caused by a
 gale, a sandstorm, helpless ferrymen, and ropes breaking every minute, it was a
 wonder that we and our mules were not carried out to sea in a body. Altogether
@@ -190,15 +190,15 @@ between Acre and Caifa.
 The weather now changed, and continued fine for our ride down the travel-beaten
 track that leads through Nablous to the capital of Palestine. Our only remaining
 difficulty was the mud, which made the Plain of Esdraelon almost impassable: now
-one mule, now another, stuck in the treacherous quagmire, but the ߵdelicate
-instrumentsߴ had been confided to an animal equal to his trust, which either
+one mule, now another, stuck in the treacherous quagmire, but the ❛delicate
+instruments❜ had been confided to an animal equal to his trust, which either
 kept its legs, or sank in the gentlest and most graceful manner. We reached
 Jerusalem on February 18th, having been twelve days on the road.
 
 We quartered ourselves in the Damascus Hotel, which is fairly comfortable, and
 commands a fine view of the Mosque of Omar and Mount Olivet from the windows of
 the *salle-a-manger.* As soon as possible we enquired for Lieutenant Warren,
-hoping to deliver to him in person the case of ߵdelicate instrumentsߴ and to
+hoping to deliver to him in person the case of ❛delicate instruments❜ and to
 hear how their internal organisation had borne the journey; but he had already
 left Jerusalem for the trip to the east side of the Dead Sea, which ended so
 sadly in the death of one of his companions, of Jericho fever.
@@ -211,7 +211,7 @@ disappointed with the unadventurous character of a ride through Palestine, so
 little realising the common idea of Eastern travel, and were eager to seize the
 first favourable opportunity to escape from the beaten track between Jerusalem
 and Damascus. When, therefore, the map was produced, and the directness of a
-route via Jerash, Bozrah, and the ߵGiant Citiesߴ of Bashan was pointed out, my
+route via Jerash, Bozrah, and the ❛Giant Cities❜ of Bashan was pointed out, my
 proposal to take that course was unanimously adopted. We had read Mr. Tristram’s
 most interesting description of Jerash, and we purchased, at Jerusalem, Mr.
 Porter’s sensational account of the ruins of the Hauran. We knew, therefore,
@@ -219,7 +219,7 @@ something of the country we proposed to visit, and were aware that to pass from
 Jerusalem to Damascus by the east side of the Jordan, with all the impedimenta
 of a dragoman, was not a matter to be lightly undertaken. Travellers who, like
 Mr. Tristram, have of late years visited Jerash and Amman, have almost
-invariably paid large sums of money as ߵbacksheeshߴ to the Adwan and other
+invariably paid large sums of money as ❛backsheesh❜ to the Adwan and other
 Bedouin tribes of the Jordan valley; while those who, like Mr. Porter and Mr.
 Cyril Graham, have explored the wilds of Bashan have generally been Arabic
 scholars, and have travelled with little baggage. We could find no record of any
@@ -284,12 +284,12 @@ acquaintance, who made a most welcome addition to our party. On Thursday, March
 Jerusalem—Cross, Williams, and the dragoman armed with double-barrelled guns,
 Tucker and I with revolvers, and the two Turkish irregulars bristling with a
 whole armoury of guns, swords, and pistols. We rode over to Bethlehem, to my
-mind one of the most satisfactory of the ߵholy placesߴ of Palestine, despite the
-crowds of pert children, who, fearless of another Herod, demand ߵbacksheesh’
+mind one of the most satisfactory of the ❛holy places❜ of Palestine, despite the
+crowds of pert children, who, fearless of another Herod, demand ❛backsheesh’
 with Egyptian pertinacity. As we rode on over the bare hills to the Convent of
 Marsaba, the beauty of the first view of the Dead Sea so roused Francois’
-enthusiasm that, with somewhat Irish brilliancy, he exclaimed, ߵVive la Mer
-Morteߴ We slept in the convent.
+enthusiasm that, with somewhat Irish brilliancy, he exclaimed, ❛Vive la Mer
+Morte❜ We slept in the convent.
 
 Friday was a gloriously fine but very hot day. No one can fail to be struck by
 the views of the bright blue lake surrounded by red and yellow rocks, and the
@@ -301,8 +301,8 @@ travellers generally make their midday halt. A hot ride, across a plain covered
 with brushwood, brought us to the modern Jericho. In the course of the evening a
 troop of villagers, men and women, came to dance before us; the women exhibited
 first, then the men, but the performances were very similar—a perpetual swinging
-of the body and clapping of hands, accompanied by a monotonous chaunt of ߵIwa
-backsheesh O Howadjiߴ The people of Jericho bear a very ill name, and we took
+of the body and clapping of hands, accompanied by a monotonous chaunt of ❛Iwa
+backsheesh O Howadji❜ The people of Jericho bear a very ill name, and we took
 the precaution to station Francois at the door of the second tent, to prevent
 robbery. While he was keeping a look-out in front, some rascal, peering through
 the opening at the back, where the sides of the tent join, saw Cross’s watch
@@ -330,7 +330,7 @@ reminded me of Snowdon; its sides were clothed in verdure of the most vivid
 green. By the roadside were seated a group of twenty Bedouins armed only with
 clubs. To our intense surprise, Khasim dashed in amongst them, and pounced on
 one ragged old fellow. The man selected endeavoured, in vain, to kiss his
-captor’s hand and soften his heart; in minute his ߵkefiyehߴ was plucked off his
+captor’s hand and soften his heart; in minute his ❛kefiyeh❜ was plucked off his
 head, and his hands were tied with it behind his back. Khasim then galloped off
 in pursuit of the rest of the party, who had scattered in all directions; he
 soon returned with a second prisoner, and we rode on, driving the two men before

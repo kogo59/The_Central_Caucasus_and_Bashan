@@ -8,7 +8,7 @@ countries, well known, indeed, by name to the general reader, but concerning
 which vague, and in some respects incorrect impressions are frequently
 entertained. A truthful traveller may do as good service by destroying illusions
 as by bringing forward fresh information, and I have felt bound to record our
-conviction that the belief that there are ߵGiant Citiesߴ in Bashan is as
+conviction that the belief that there are ❛Giant Cities❜ in Bashan is as
 unfounded as the still more prevalent idea that all the men in the Caucasus are
 brave, and all the women beautiful.
 
@@ -23,7 +23,7 @@ subject of the present volume. I trust that the record of our adventures in the
 mountain fastnesses may prove of sufficient interest to draw the attention of
 our countrymen to a range surpassing the Alps by two thousand feet in the
 average height of its peaks, abounding in noble scenery and picturesque
-inhabitants, and even now within the reach of many ߵlong-vacation touristsߴ When
+inhabitants, and even now within the reach of many ❛long-vacation tourists❜ When
 the Caucasus, as yet less known than the Andes or the Himalayas, becomes a
 recognised goal of travel, this work will have fulfilled its object, and will be
 superseded by the production of some author better qualified, both by literary
@@ -65,7 +65,7 @@ volume now submitted to the public.
 MAPS.
 ::::
 
-| I. Route Map of the Hawran
+| I. [Route Map of the Hawran](ch003.xhtml#b016)
 | II. The Caucasian Provinces
 | II. The Central Caucasus<br /><br />
 
