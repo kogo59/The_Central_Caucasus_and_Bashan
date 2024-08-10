@@ -66,7 +66,7 @@ MAPS.
 ::::
 
 | I. [Route Map of the Hawran](ch003.xhtml#b016)
-| II. The Caucasian Provinces
+| II. [The Caucasian Provinces](ch005.xhtml#b074)
 | II. The Central Caucasus<br /><br />
 
 :::: align-center
@@ -89,8 +89,8 @@ PANORAMAS.
 WOODCUTS IN TEXT.
 ::::
 
-| A Georgian Church 
-| The Georgian Castle, Tiflis 
+| [A Georgian Church.](ch005.xhtml#b096)
+| [The Georgian Castle, Tiflis.](ch005.xhtml#b104)
 | Mountaineers in Armour
 | An Ossete Village 
 | An Ossete

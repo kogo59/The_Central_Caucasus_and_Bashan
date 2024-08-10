@@ -1232,8 +1232,6 @@ and what we had seen, was a very small sum.
 
 :::
 
-
-
 #### **Annotations** {.break-before .unnumbered}
 
 [^0200]: [Eastern travellers, who object to swallowing as much mud and insect life as water, should provide themselves before leaving England with portable filters.]{.footnote}
