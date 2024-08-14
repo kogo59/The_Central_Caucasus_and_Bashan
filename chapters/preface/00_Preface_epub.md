@@ -74,7 +74,7 @@ FULL-PAGE ILLUSTRATIONS.
 ::::
 
 | [Elbruz from the North](ch001.xhtml#b000) 
-| Ararat
+| [Ararat](ch006.xhtml#b124) 
 | Kazbek from the Post Station
 | Kazbek from the South<br /><br />
 
