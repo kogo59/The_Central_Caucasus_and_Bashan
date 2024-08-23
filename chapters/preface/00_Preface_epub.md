@@ -75,8 +75,8 @@ FULL-PAGE ILLUSTRATIONS.
 
 | [Elbruz from the North](ch001.xhtml#b000) 
 | [Ararat](ch006.xhtml#b124) 
-| Kazbek from the Post Station
-| Kazbek from the South<br /><br />
+| [Kazbek from the Post Station](ch008.xhtml#b184) 
+| [Kazbek from the South](ch008.xhtml#b197)<br /><br />
 
 :::: align-center
 PANORAMAS.
@@ -91,7 +91,7 @@ WOODCUTS IN TEXT.
 
 | [A Georgian Church.](ch005.xhtml#b096)
 | [The Georgian Castle, Tiflis.](ch005.xhtml#b104)
-| Mountaineers in Armour
+| [Mountaineers in Armour](ch008.xhtml#b195) 
 | An Ossete Village 
 | An Ossete
 | Adai Khokh from the Rion Valley

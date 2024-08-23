@@ -348,7 +348,7 @@ gently towards the north for some distance, and supports a large névé-plateau,
 below which the mountain breaks down steeply for several thousand feet.
 
 :::: { .wrap-100 .caption }
-![Ararat.](The_Central_Caucasus_and_Bashan_0124.jpg "Ararat"){#b124}
+![ARARAT.](The_Central_Caucasus_and_Bashan_0124.jpg "Ararat"){#b124}
 ::::
 
 We now left cultivation behind, and drove at will over the grassy steppe,
