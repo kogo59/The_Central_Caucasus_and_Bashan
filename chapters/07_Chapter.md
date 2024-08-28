@@ -713,7 +713,7 @@ of Tiflis.
 
 In that publication it finally appeared, and contributed in no slight degree to
 the reputation of modern Munchausens, which before leaving the country we had
-sueceeded in establishing.
+succeeded in establishing.
 
 :::
 

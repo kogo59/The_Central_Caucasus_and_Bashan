@@ -92,9 +92,9 @@ WOODCUTS IN TEXT.
 | [A Georgian Church.](ch005.xhtml#b096)
 | [The Georgian Castle, Tiflis.](ch005.xhtml#b104)
 | [Mountaineers in Armour](ch008.xhtml#b195) 
-| An Ossete Village 
-| An Ossete
-| Adai Khokh from the Rion Valley
+| [An Ossete Village](ch009.xhtml#b213) 
+| [An Ossete](ch009.xhtml#b227) 
+| [Adai Khokh from the Rion Valley](ch009.xhtml#b237)
 | Source of the Eastern Zenes-Squali
 | Our Camp-fire in the Forest
 | A Native of Jibiani 
