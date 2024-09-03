@@ -95,8 +95,8 @@ WOODCUTS IN TEXT.
 | [An Ossete Village](ch009.xhtml#b213) 
 | [An Ossete](ch009.xhtml#b227) 
 | [Adai Khokh from the Rion Valley](ch009.xhtml#b237)
-| Source of the Eastern Zenes-Squali
-| Our Camp-fire in the Forest
+| [Source of the Eastern Zenes-Squali](ch010.xhtml#b282)
+| [Our Camp-fire in the Forest](ch010.xhtml#b289)
 | A Native of Jibiani 
 | Taun To
 | Tötönal from above Latal
