@@ -97,10 +97,9 @@ WOODCUTS IN TEXT.
 | [Adai Khokh from the Rion Valley](ch009.xhtml#b237)
 | [Source of the Eastern Zenes-Squali](ch010.xhtml#b282)
 | [Our Camp-fire in the Forest](ch010.xhtml#b289)
-| A Native of Jibiani 
-| Taun To
-| Tötönal from above Latal
-| Uschba from above Latal
+| [A Native of Jibiani](ch011.xhtml#b300)
+| [Tau Tötönal from above Latal](ch011.xhtml#b328)
+| [Uschba from above Latal](ch011.xhtml#b329)
 | Woman of Uruspieh
 | Peak in the Tcherek Valley
 | Fort of Dariel
