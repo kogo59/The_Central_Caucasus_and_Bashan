@@ -1,4 +1,4 @@
-# PREFACE. {#PRE .unnumbered}
+# PREFACE. {#PRE .unnumbered epub:type=prologue}
 
 ::: justified
 
@@ -100,7 +100,7 @@ WOODCUTS IN TEXT.
 | [A Native of Jibiani](ch011.xhtml#b300)
 | [Tau Tötönal from above Latal](ch011.xhtml#b328)
 | [Uschba from above Latal](ch011.xhtml#b329)
-| Woman of Uruspieh
+| [Woman of Uruspieh](ch012.xhtml#b357)
 | Peak in the Tcherek Valley
 | Fort of Dariel
 | Grand-Ducal Villa at Borjom
