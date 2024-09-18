@@ -82,7 +82,7 @@ FULL-PAGE ILLUSTRATIONS.
 PANORAMAS.
 ::::
 
-| The Caucasus from Pitigorsk
+| [The Caucasus from Pätigorsk](ch012.xhtml#b380b)
 | The Koschtantau Group<br /><br />
 
 :::: align-center
@@ -101,7 +101,7 @@ WOODCUTS IN TEXT.
 | [Tau Tötönal from above Latal](ch011.xhtml#b328)
 | [Uschba from above Latal](ch011.xhtml#b329)
 | [Woman of Uruspieh](ch012.xhtml#b357)
-| Peak in the Tcherek Valley
+| [Peak in the Tcherek Valley](ch013.xhtml#b411)
 | Fort of Dariel
 | Grand-Ducal Villa at Borjom
 | Mingrelian Wine Jar

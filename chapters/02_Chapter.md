@@ -3,7 +3,7 @@
 ::: justified
 
 :::: fs-xs
-The English Soldier— A Mountain Ride — Es-Salt — Lost on the Hills — The Jabbok
+The English Soldier — A Mountain Ride — Es-Salt — Lost on the Hills — The Jabbok
 — Camp of the Beni-Hassan— Suppressing a Sheikh — The Oak Forests of Gilead —
 The Tablelands — An Uxorious Sheikh — Derat — The Roman Road — The Robbers
 repulsed — Ghusam — Bozrah — Honoured Guests — A Ramble in the Ruins —Kureiyeh—

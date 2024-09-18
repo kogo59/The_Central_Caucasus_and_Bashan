@@ -1119,7 +1119,16 @@ told, and we could scarcely believe how short a time before high sheep’s brain
 had been regarded as a delicacy, and a pair of shooting-boots and a revolver as
 a luxurious pillow.
 
+:::: { .wrap-100 .caption }
+![VIEW FROM STULEVEESK PASS.](The_Central_Caucasus_and_Bashan_0380a.jpg "VIEW FROM STULEVEESK PASS."){#b380a}
+::::
+
+:::: { .wrap-100 .caption }
+![THE CAUCASUS FROM PÄTIGORSK.](The_Central_Caucasus_and_Bashan_0380b.jpg "THE CAUCASUS FROM PÄTIGORSK."){#b380b}
+::::
+
 :::
+
 
 #### **Annotations** {.break-before .unnumbered}
 
