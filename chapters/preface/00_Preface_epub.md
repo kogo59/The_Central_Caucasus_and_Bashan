@@ -102,6 +102,6 @@ WOODCUTS IN TEXT.
 | [Uschba from above Latal](ch011.xhtml#b329)
 | [Woman of Uruspieh](ch012.xhtml#b357)
 | [Peak in the Tcherek Valley](ch013.xhtml#b411)
-| Fort of Dariel
+| [Fort of Dariel](ch014.xhtml#b442)
 | Grand-Ducal Villa at Borjom
 | Mingrelian Wine Jar
