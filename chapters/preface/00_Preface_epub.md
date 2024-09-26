@@ -65,8 +65,8 @@ volume now submitted to the public.
 MAPS.
 ::::
 
-| I. [Route Map of the Hawran](ch003.xhtml#b016)
-| II. [The Caucasian Provinces](ch005.xhtml#b074)
+| I. [Route Map of the Hawran](ch004.xhtml#b016)
+| II. [The Caucasian Provinces](ch006.xhtml#b074)
 | II. The Central Caucasus<br /><br />
 
 :::: align-center
@@ -74,34 +74,34 @@ FULL-PAGE ILLUSTRATIONS.
 ::::
 
 | [Elbruz from the North](ch001.xhtml#b000) 
-| [Ararat](ch006.xhtml#b124) 
-| [Kazbek from the Post Station](ch008.xhtml#b184) 
-| [Kazbek from the South](ch008.xhtml#b197)<br /><br />
+| [Ararat](ch007.xhtml#b124) 
+| [Kazbek from the Post Station](ch009.xhtml#b184) 
+| [Kazbek from the South](ch009.xhtml#b197)<br /><br />
 
 :::: align-center
 PANORAMAS.
 ::::
 
-| [The Caucasus from Pätigorsk](ch012.xhtml#b380b)
-| The Koschtantau Group<br /><br />
+| [The Caucasus from Pätigorsk](ch013.xhtml#b380b)
+| [The Koschtantau Group](ch013.xhtml#b380A)<br /><br />
 
 :::: align-center
 WOODCUTS IN TEXT.
 ::::
 
-| [A Georgian Church.](ch005.xhtml#b096)
-| [The Georgian Castle, Tiflis.](ch005.xhtml#b104)
-| [Mountaineers in Armour](ch008.xhtml#b195) 
-| [An Ossete Village](ch009.xhtml#b213) 
-| [An Ossete](ch009.xhtml#b227) 
-| [Adai Khokh from the Rion Valley](ch009.xhtml#b237)
-| [Source of the Eastern Zenes-Squali](ch010.xhtml#b282)
-| [Our Camp-fire in the Forest](ch010.xhtml#b289)
-| [A Native of Jibiani](ch011.xhtml#b300)
-| [Tau Tötönal from above Latal](ch011.xhtml#b328)
-| [Uschba from above Latal](ch011.xhtml#b329)
-| [Woman of Uruspieh](ch012.xhtml#b357)
-| [Peak in the Tcherek Valley](ch013.xhtml#b411)
-| [Fort of Dariel](ch014.xhtml#b442)
-| Grand-Ducal Villa at Borjom
-| Mingrelian Wine Jar
+| [A Georgian Church.](ch006.xhtml#b096)
+| [The Georgian Castle, Tiflis.](ch006.xhtml#b104)
+| [Mountaineers in Armour](ch009.xhtml#b195) 
+| [An Ossete Village](ch010.xhtml#b213) 
+| [An Ossete](ch010.xhtml#b227) 
+| [Adai Khokh from the Rion Valley](ch010.xhtml#b237)
+| [Source of the Eastern Zenes-Squali](ch011.xhtml#b282)
+| [Our Camp-fire in the Forest](ch011.xhtml#b289)
+| [A Native of Jibiani](ch012.xhtml#b300)
+| [Tau Tötönal from above Latal](ch012.xhtml#b328)
+| [Uschba from above Latal](ch012.xhtml#b329)
+| [Woman of Uruspieh](ch013.xhtml#b357)
+| [Peak in the Tcherek Valley](ch014.xhtml#b411)
+| [Fort of Dariel](ch015.xhtml#b442)
+| [Grand-Ducal Villa at Borjom](ch016.xhtml#b466)
+| [Mingrelian Wine Jar](ch016.xhtml#b479)
