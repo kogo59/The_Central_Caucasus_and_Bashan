@@ -1,13 +1,12 @@
 # APPENDIX II. <br /><small> HEIGHTS OF PEAKS, PASSES, TOWNS, AND VILLAGES IN THE CAUCASIAN PROVINCES. </small>{#sixteen .unnumbered}
 
-
 :::: align-center
 ****
 ::::
 
 ::: justified
 
-:::: fs-s
+:::: fs-xs
 [N.B.—The barometrical heights are untrustworthy, and can only be considered as
 roughly approximative.]
 ::::
@@ -89,6 +88,5 @@ roughly approximative.]
 |Abastuman| NW. of Achaltzich| 4,178||||
 
 ::::
-
 
 :::
