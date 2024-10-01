@@ -18,7 +18,7 @@ AND PARLIAMENT STREET<br />
 
 
 :::: { .wrap-100 .caption .break-after}
-![ELBRUZ FROM NEAR PATICORSK.](The_Central_Caucasus_and_Bashan_0000.jpg "ELBRUZ FROM NEAR PATICORSK."){#b000}
+![ELBRUZ FROM NEAR PÄTIGORSK.](The_Central_Caucasus_and_Bashan_0000.jpg "ELBRUZ FROM NEAR PÄTIGORSK."){#b000}
 ::::
 
 

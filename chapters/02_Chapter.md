@@ -430,7 +430,7 @@ small open space, whence steps lead downwards into sundry burrows, half
 excavated in the earth, half built up and roofed in with unhewn stones. Anything
 more sombre and unhomelike than these piles of black basalt boulders it is
 impossible to conceive. It would be too ridiculous to imagine the sentiment of
-❛Home, sweet home !❜ entering into the head of an inhabitant of Derat, and most
+❛Home, sweet home!❜ entering into the head of an inhabitant of Derat, and most
 of the villages of Bashan are similar to it. The town stands above a deep
 ravine, at the bottom of which flows the Yarmuk, the ancient Hieromax, which we
 crossed by a ford close to the river-side, where we found two fine sarcophagi,

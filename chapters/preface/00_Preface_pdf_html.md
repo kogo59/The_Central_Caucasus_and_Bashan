@@ -65,44 +65,44 @@ volume now submitted to the public.
 MAPS.
 ::::
 
-| I. [Route Map of the Hawran](ch003.xhtml#b016)
-| II. The Caucasian Provinces
-| II. The Central Caucasus<br /><br />
+| I. [Route Map of the Hawran](#b016)
+| II. [The Caucasian Provinces](#b074)
+| II. [The Central Caucasus](#bmap)<br /><br />
 
 :::: align-center
 FULL-PAGE ILLUSTRATIONS.
 ::::
 
-| [Elbruz from the North](ch001.xhtml#b000) 
-| Ararat
-| Kazbek from the Post Station
-| Kazbek from the South<br /><br />
+| [Elbruz from the North](#b000) 
+| [Ararat](#b124) 
+| [Kazbek from the Post Station](#b184) 
+| [Kazbek from the South](#b197)<br /><br />
 
 :::: align-center
 PANORAMAS.
 ::::
 
-| The Caucasus from Pitigorsk
-| The Koschtantau Group<br /><br />
+| [The Caucasus from Pätigorsk](#b380b)
+| [The Koschtantau Group](#b380a)
+<br /><br />
 
 :::: align-center
 WOODCUTS IN TEXT.
 ::::
 
-| A Georgian Church 
-| The Georgian Castle, Tiflis 
-| Mountaineers in Armour
-| An Ossete Village 
-| An Ossete
-| Adai Khokh from the Rion Valley
-| Source of the Eastern Zenes-Squali
-| Our Camp-fire in the Forest
-| A Native of Jibiani 
-| Taun To
-| Tötönal from above Latal
-| Uschba from above Latal
-| Woman of Uruspieh
-| Peak in the Tcherek Valley
-| Fort of Dariel
-| Grand-Ducal Villa at Borjom
-| Mingrelian Wine Jar
+| [A Georgian Church.](#b096)
+| [The Georgian Castle, Tiflis.](#b104)
+| [Mountaineers in Armour](#b195) 
+| [An Ossete Village](#b213) 
+| [An Ossete](#b227) 
+| [Adai Khokh from the Rion Valley](#b237)
+| [Source of the Eastern Zenes-Squali](#b282)
+| [Our Camp-fire in the Forest](#b289)
+| [A Native of Jibiani](#b300)
+| [Tau Tötönal from above Latal](#b328)
+| [Uschba from above Latal](#b329)
+| [Woman of Uruspieh](#b357)
+| [Peak in the Tcherek Valley](#b411)
+| [Fort of Dariel](#b442)
+| [Grand-Ducal Villa at Borjom](#b466)
+| [Mingrelian Wine Jar](#b479)

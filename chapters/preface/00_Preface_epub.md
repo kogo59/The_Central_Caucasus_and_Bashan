@@ -67,7 +67,7 @@ MAPS.
 
 | I. [Route Map of the Hawran](ch004.xhtml#b016)
 | II. [The Caucasian Provinces](ch006.xhtml#b074)
-| II. The Central Caucasus<br /><br />
+| II. [The Central Caucasus](ch019.xhtml#bmap)<br /><br />
 
 :::: align-center
 FULL-PAGE ILLUSTRATIONS.
@@ -83,7 +83,8 @@ PANORAMAS.
 ::::
 
 | [The Caucasus from Pätigorsk](ch013.xhtml#b380b)
-| [The Koschtantau Group](ch013.xhtml#b380A)<br /><br />
+| [The Koschtantau Group](ch013.xhtml#b380a)
+<br /><br />
 
 :::: align-center
 WOODCUTS IN TEXT.

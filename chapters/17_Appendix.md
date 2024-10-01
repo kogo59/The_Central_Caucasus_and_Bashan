@@ -245,3 +245,250 @@ SPOTTISWOODE AND CO, NEW-STREET SQUARE<br />
 AND PARLIAMENT STREET<br />
 ::::
 
+:::: { .wrap-100 .caption .break-before}
+![&nbsp;](The_Central_Caucasus_map.jpg ""){#bmap}
+::::
+
+
+:::: { .break-before .fs-xl .align-center }
+BOOKS <small>AND</small> MAPS <small>FOR</small> TRAVELLERS.<br /><br />
+::::
+
+:::: { .justified }
+
+**CADORE, or TITIAN'S COUNTRY.**  <small>[By JOSIAH GILBERT]{.smallcaps}, one of
+the Authors of the ❛Dolomite Mountains❜ In One Volume, medium 8vo. with numerous
+Illustrations and a Facsimile of Titian’s Original Design for his Picture of the
+Battle of Cadore. [*Nearly ready.*]</small>
+
+
+**The ALPINE GUIDE.**  <small>[By JOHN BALL, M.R.I.A.]{.smallcaps} late
+President of the Alpine Club. With Maps, Panoramas of Summits, and other
+Illustrations. Three Parts or Volumes, post 8vo :—</small>
+
+
+**GUIDE to the EASTERN ALPS,**  <small>price 10s. 6d. </small>
+
+**GUIDE to the WESTERN ALPS,**  <small>including Mont Blanc, Monte Rosa,
+Zermatt, &c. price 6s. 6d.</small>
+
+**GUIDE to the CENTRAL ALPS,**  <small>including all the Oberland District,
+price 7s. 6d.</small>
+
+
+**INTRODUCTION on ALPINE TRAVELLING** <small>in general and on the
+Geology of the Alps, price ONE SHILLING. Each of the Three Volumes or Parts
+of the Alpine Guide may be had with this INTRODUCTION prefixed, price ONE
+SHILLING extra.</small>
+
+
+**MAP of THE VALPELLINE, the VAL TOURNANCHE,** <small>and the
+Southern Valleys of the Chain of MONTE ROSA. from an actual Survey in
+1865-1866. By A. ADAMS-REILLY, F.R.G.S, M.A.C. In Chromolithography,
+on extra Stout Drawing Paper, 25 inches by 14 inches. price 6s. To be had
+also mounted on CANVAS, folded and jointed, for POCKET or KNAPSACK, price 7s. 6d.</small>
+
+**MAP of the CHAIN of MONT BLANC,**  <small>from an actual Survey in
+1863-1864. A. ADAMS-REILLY, F.R.G.S, M.A.C. In Chromolithography
+on extra stout Drawing Paper 28 inches by 17 inches, price 10s. To be had also
+mounted on Canvas, in a folding case, price 12s. 6d.</small>
+
+
+**GUIDE to the PYRENEES,** <small>for the Use of Mountaineers, By CHARLES
+PACKE.  Second Edition, corrected; with Frontispiece and  Map, and an
+APPENDIX,  Crown 8vo, price 7s. 6d.</small>
+
+
+**PICTURES in TYROL** <small>and Elsewhere, from a Family Sketch-Book.
+By the Author of ❛A Voyage en Zigzag❜ &e. Second Edition, revised: with 62
+Lithographic Plates of Illustrations, containing 113 Sketches, Small quarto,
+price 21s.</small><br /><br />
+
+::::: fs-xxs
+❛A thoroughly delightful book.❜ 
+
+:::::: align-right 
+EXAMINER.
+::::::
+
+:::::
+
+::::: { .fs-xxs .justified }
+❛The Writer of these charming descriptive chapters, the artist who drew
+these matchless sketches, so full of truth, humour, force, and freshness, must
+be the most acceptable of companions.❜ 
+
+:::::: align-right 
+CONTEMPORARY REVIEW.
+::::::
+
+:::::
+
+::::: { .fs-xxs .justified }
+❛Here we have the same racy pencil, with the charming piquant studies of
+the Anglais giving himself up to every conceivable and inconceivable form of
+independent adventure on mountain and pass, relieved by clear and sparkling
+sketches of the manners and customs of the barbarous folk who dwell on the
+Continent of Europe, which bring to shame the puppet writer of travels.❜
+
+:::::: align-right 
+SATURDAY REVIEW.
+::::::
+:::::
+
+::::: { .align-center}
+*Works by the same Author.*
+:::::
+
+**HOW WE SPENT THE SUMMER,** <small>or a Voyage en Zigzag. Third Edition, 15s.</small>
+
+**BEATEN TRACKS,** <small>Pen and Pencil Sketches in Italy, 16s.</small>
+
+**ROMA SOTTERANEA;** <small>or, some Account of the Roman Catacombs, especially
+of the Cemetery of San Callisto. Compiled from the Works of Commendatore D. D.
+Rossi, with the consent of the Author, by the Rev. J. S. NORTCOTE, D.D.,
+President of St. Mary's College, Oscott: and the Rev. W. R. BROWNLOW, M.A.,
+Trinity College, Cambridge. With 55 Engravings on Wood, 10 Lithographs, 10
+Plates in Chromolithography, and Two Plans (one coloured), all executed in Rome
+under the Author's superintendence for this Translation, 8vo. price 31s. 6d.
+cloth.</small>
+::::
+
+:::: align-center
+****
+::::
+::::: { .fs-xs .align-center }
+London: LONGMANS and CO. Paternoster Row.
+:::::
+
+
+:::: {.align-center .break-before .fs-xxs }
+To TRAVELLERS in SWITZERLAND, the TYROL, and the EASTERN ALPS.
+::::
+
+:::: align-center
+****
+::::
+
+:::: {.fs-xs .align-center}
+THE NEW ALPINE GUIDES.
+::::
+
+:::: align-center
+****
+::::
+
+:::: {.align-center .fs-xxs}
+Lately published,
+::::
+
+:::: { .fs-xxl .align-center}
+**THE ALPINE GUIDE.**
+::::
+:::: { .align-center .fs-xs }
+| By JOHN BALL, M.R.I.A. F.L.S. Late President of the Alpine Club.
+In Three Parts or Volumes, post 8vo. with Maps, Panoramas of Summits, and other Illustrations:
+::::
+
+:::: align-center
+**GUIDE TO THE WESTERN ALPS,**
+::::
+:::: fs-xs
+Mont Blanc, Monte Rosa, &c. including the whole range of the Alps of Piedmont,
+Dauphiné, and Savoy, from Nice to the Pass of the Simplon, price 6s. 6d.
+::::
+
+:::: align-center
+**GUIDE TO THE CENTRAL ALPS,**
+::::
+:::: fs-xs
+Including the Bornese Oberland, with Lombardy and the adjoining portion of the
+Tyrol, price 7s. 6d.
+::::
+
+:::: align-center
+**GUIDE TO THE EASTERN ALPS,**
+::::
+:::: fs-xs
+Including the Salzburgh and Central Tyrolese Chains, the Styrian Alps, and the
+Terglou District from the Valley of the Drave to the Adriatic, price 10s. 6d.
+::::
+
+:::: fs-xs
+INTRODUCTION on ALPINE TRAVELLING  in General and on the Geology of the Alps, price 1s.
+Each of the Three VOLUMES or Parts of the Alpine Guide may be had with this INTRODUCTION
+prefixed, price 1s, extra.
+::::
+
+:::: align-center
+****
+::::
+:::: { .align-center .fs-xs }
+*CRITICAL OPINIONS of the ALPINE GUIDE.*
+::::
+
+
+::::: { .fs-xxs .justified }
+❛By far the most scientific and complete Guides to which the English traveller
+has access. . . We have examined the Guide very carefully — indeed, it is
+so interesting as to have no small attractions for the general reader, even
+without the additional stimulus of any intention to follow the various routes
+discussed: and so far as our experience of the Tyrol goes, it is beyond praise.❜
+:::::
+::::: { .fs-xxs .align-right}
+SPECTATOR.
+:::::
+
+::::: { .fs-xxs .justified }
+❛These three volumes form the simplest and completest Guide to the Alps in our
+own or any other language. Every tourist who has used either or both of the two
+previous volumes knows from experience how useful they are. . . Mr. BALL is
+entitled to our congratulations that he has lived to achieve his self-appointed
+task, and now to put the finishing touch to a work which will doubtless long
+preserve his name, and associate him with the many intrepid Alpine adventurers
+who have made the high Alps better known to us than they would have been for
+perhaps a century to come but for their numerous and arduous ascents and
+explorations.❜ 
+:::::
+:::::{ .fs-xxs .align-right}
+ATHENEUM.
+:::::
+
+::::: { .fs-xxs .justified }
+❛No other Guides convey half so much interesting and valuable scientific
+information, though they may be more copious in their gossip about inns and
+refreshments. The geologist, mineralogist, entomologist, and botanist may all
+here find directions to their most coveted treasures, and it is altogether
+written in a style which puts it far beyond the common run of Guide-books. It is
+full of interest even for those who never have visited, and never intend to
+visit, these districts.❜
+:::::
+::::: { .fs-xxs .align-right}
+ENGLISH INDEPENDENT.
+:::::
+
+::::: { .fs-xxs .justified }
+❛The Author’s style is clear, easy, and, if we may be permitted to say so,
+pedestrian in its character. It goes leisurely, gives the reader time to look
+about him and examine stone or plant, and is not unmindful of such hints as are
+useful to those who, though they do not want to know *only* where the best inns,
+and the easiest carriages, and the most recherché dinners are to be found, are
+yet disposed to make themselves comfortable when they have ended their day’s
+journey. There is a healthy simplicity and companionship in this volume which
+seems to have been somehow developed in the mountain air.❜ 
+:::::
+::::: { .fs-xxs .align-right}
+ILLUSTRATED TIMES.
+:::::
+
+:::: align-center
+****
+::::
+::::: { .fs-xs .align-center }
+London: LONGMANS and CO. Paternoster Row.
+:::::
+
+
+
+
+
