@@ -67,7 +67,8 @@ MAPS.
 
 | I. [Route Map of the Hawran](ch004.xhtml#b016)
 | II. [The Caucasian Provinces](ch006.xhtml#b074)
-| II. [The Central Caucasus](ch019.xhtml#bmap)<br /><br />
+| II. [The Central Caucasus](ch019.xhtml#bmap)
+<br /><br />
 
 :::: align-center
 FULL-PAGE ILLUSTRATIONS.
@@ -76,7 +77,8 @@ FULL-PAGE ILLUSTRATIONS.
 | [Elbruz from the North](ch001.xhtml#b000) 
 | [Ararat](ch007.xhtml#b124) 
 | [Kazbek from the Post Station](ch009.xhtml#b184) 
-| [Kazbek from the South](ch009.xhtml#b197)<br /><br />
+| [Kazbek from the South](ch009.xhtml#b197)
+<br /><br />
 
 :::: align-center
 PANORAMAS.

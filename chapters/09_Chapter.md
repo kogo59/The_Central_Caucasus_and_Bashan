@@ -550,7 +550,7 @@ to break off branches and lay them on the lower side of the spot selected by
 each for his bed, to prevent the sleeper rolling away down the slope. Having
 lighted a fire, we ransacked our bags, laid together what little provision there
 was left, and set aside one roll for the morning; the next thing was to divide
-the vest into portions; each man got a slice of bread about two inches square,
+the rest into portions; each man got a slice of bread about two inches square,
 and half the limb of a chicken. After this frugal supper had been disposed of,
 we covered ourselves as far as possible with our mackintoshes, and lay down to
 court sleep, but we had not long dozed off, when several big drops of rain
@@ -822,7 +822,7 @@ rise to the fable that the Caucasians are in the habit, when on the march, of
 carrying with them small tents, and taking shelter in them from the rainstorms,
 for which these mountains are justly celebrated.
 
-*July 14th.* — The morning was fair, and the clouds were blowing off the
+*July 15th.* — The morning was fair, and the clouds were blowing off the
 surrounding summits when we emerged from our tent. The view up the valley was
 closed by the snowy mass of the Edenis-Mta, and a small glacier which descends
 from its flanks. The meaning of this name is the Mountain of Paradise, and a
@@ -956,7 +956,7 @@ and this very glen is a favourite hunting-ground with the inhabitants of
 Laschketi, the highest village in the valley, who come here in winter on
 snow-shoes. They form a party, consisting of as many as forty or fifty hunters,
 surround a large tract of country, and drive the game together. In this way
-thirty-one bouquetin were killed in one day in the winter of 1863 64.
+thirty-one bouquetin were killed in one day in the winter of 1863/64.
 
 :::: { .wrap-80 .caption }
 ![Source of the Eastern Zenes-Squali.](The_Central_Caucasus_and_Bashan_0282.jpg "Source of the Eastern Zenes-Squali."){#b282}
@@ -986,7 +986,7 @@ to enjoy. During the night we were pestered by swarms of mosquitoes, and small
 but very venomous black flies, which, despite all our endeavours, found their
 way into the tent, and most effectually murdered sleep.
 
-*July 15th.* — The valley was filled with clouds, which threatened rain before
+*July 16th.* — The valley was filled with clouds, which threatened rain before
 the day was much older. We packed up our tent, and, after the usual delays, got
 off about 7.15 A.M.. At once crossing the river, we struck the bed of a small
 stream descending from a hollow in the range on the west side of the valley. The

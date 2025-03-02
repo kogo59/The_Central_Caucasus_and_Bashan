@@ -11,7 +11,7 @@ Prince — Passes to the Kuratchai — Tartar Mountaineers — A Night with the
 Shepherds — A Steep Climb — Camp on the Rocks — Great Cold — On the Snowfield —
 In a Crevasse — Frigid Despair — A Crisis — Perseverance Rewarded — The Summit —
 Panorama — The Return —Enthusiastic Reeeption — The Lower Baksan — A Long Ride —
-A Tcherkess Village — Grassy Downs —  Zonitzki — Patigorsk.
+A Tcherkess Village — Grassy Downs —  Zonitzki — Pätigorsk.
 <br /><br />
 ::::
 
@@ -399,7 +399,7 @@ tradition, the Ark grazed on the top of Elbruz before finally resting on Ararat.
 The correct appreciation of the relative heights of the two mountains might
 fairly be used as an argument for the truth of the story. If it meets with
 general acceptance, we are ready cheerfully to waive any claims to the honour of
-the first ascent of Elbruz in favour of the crew of the Ark, or, as Frangois
+the first ascent of Elbruz in favour of the crew of the Ark, or, as Francois
 happily phrased it, ❛la famille Noah.❜
 
 Our hosts were acquainted with the name of Elbruz, but it had to be translated
@@ -424,7 +424,7 @@ by the Karatchai and Baksan people ❛is nearly equal to London porter,❜ altho
 in that case, either the London brewers must have improved since his time, or
 the native manufacture deteriorated. We were supplied at night with the unwonted
 luxury of pillows and sheets, and were thus able to sleep out of our clothes for
-the first time since leaving Kuazbek. It is a curious fact, the reason of which
+the first time since leaving Kazbek. It is a curious fact, the reason of which
 we failed to comprehend, that while in the Mahommedan districts cushions in
 abundance are generally found, they seem utterly unknown in the nominally
 Christian parts of the country. The reason is obscure, but the fact remains
