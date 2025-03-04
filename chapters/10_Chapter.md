@@ -1147,10 +1147,6 @@ at our expense.
 
 :::
 
-
-
-#### **Annotations** {.break-before .unnumbered}
-
 [^1000]: [Radde mentions a second name, Gatuntau glacier. Is not Gatuntau a corruption of Koschtantau, and do not the snowfields which feed the icefall surround the base of Koschtantau? These are questions for an explorer. The Russian engineers gave up this part of the chain as a bad job, and the Five Verst Map is quite unintelligible.]{.footnote}
 
 [^1001]: [Spelt thus on the map, but generally pronounced Suréni.]{.footnote}

@@ -752,6 +752,5 @@ labours, while we ❛fared sumptuously every day.❜
 
 :::
 
-#### **Annotations** {.break-before .unnumbered}
 
 [^0500]: [Three Russian versts equal two miles.]{.footnote}

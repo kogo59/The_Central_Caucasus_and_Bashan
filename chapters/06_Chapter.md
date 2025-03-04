@@ -1005,7 +1005,6 @@ that the patient was finally brought into a condition to travel.
 
 :::
 
-#### **Annotations** {.break-before .unnumbered}
 
 [^0600]: [We afterwards found a solitary plant higher on the mountain.]{.footnote}
 

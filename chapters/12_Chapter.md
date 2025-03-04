@@ -9,7 +9,7 @@ Start — A Russian Farmhouse — By the Waters of Baksan — Naltschik — The 
 — Camp in the Forest — A Tremendous Gorge — Balkar — A Hospitable Sheikh — The
 Mollah — Gloomy Weather — A  Solemn  Parting — Granitic Cliffs — Karaoul — A
 Mountain Panorama — Sources of the Tcherek — The Stuleveesk Pass — Koschtantau
-and Dychtan — A Noble Peak — Our Last Camp.
+and Dychtau — A Noble Peak — Our Last Camp.
 <br /><br />
 ::::
 
@@ -78,7 +78,7 @@ hill, Machoucha by name, which has been planted of late years with wood. The
 Podkumok flows round the southern base of the hill, on the lower slopes of which
 the town is built; the hotel and best quarter are sufficiently high to command
 from their windows a noble panorama of the snowy chain — from Elbruz, standing
-out like a sentinel on the west, to the more distant summits of Dychtan and
+out like a sentinel on the west, to the more distant summits of Dychtau and
 Koschtantau, on the east. The distance to Elbruz is about the same as that of
 Mont Blanc from Geneva; the other mountains are from twenty to forty miles
 further away. The principal bathhouses, and the gardens which surround them, are
@@ -856,7 +856,7 @@ one horse between them. By this means, after a vexatious amount of palaver and
 delay, the question was settled, and we set out up the eastern branch of the
 Tcherek. After passing over the level meadows, and the stony bed of a stream
 flowing from the glacier of an unpronounceable peak which rises grandly on the
-left, the path climbs a gentle ascent, whence the tops of both Dychtan and
+left, the path climbs a gentle ascent, whence the tops of both Dychtau and
 Koschtantau are for a moment visible together, and then finds itself in another
 plain, apparently an old lake-bed. A strong iron-spring bursts out under the
 hillside, and colours half the plain with a bright-red deposit.
@@ -1047,8 +1047,6 @@ wrapped in our respective rugs, resigned ourselves to such slumber as the state
 of our consciences, or of our digestions, would allow.
 
 :::
-
-#### **Annotations** {.break-before .unnumbered}
 
 [^1200]: [See Appendix I. —  ❛The Elbruz Expedition in 1829❜.]{.footnote}
 

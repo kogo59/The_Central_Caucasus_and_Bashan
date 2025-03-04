@@ -1174,8 +1174,6 @@ chapter.
 
 :::
 
-#### **Annotations** {.break-before .unnumbered}
-
 [^0900]: [Herr Abich alludes to this glacier in the following terms:— ❛A superb glacier of the first class descends on the north from the Adai-Khokh group between the ridges of Bordjoula and of Saourdaour. It is the Khaltschi-Don glacier. It is at least 1.500 feet broad, and traverses the forest region for a great distance. Approaching the village of Zenaga, it descends to a Level of 5,700 feet, the lowest point known to be reached by any Caucasian glacier.❜]{.footnote}
 
 [^0901]: [The torrent issuing from it is called the Karagam, a name which seems the most appropriate for the glacier.]{.footnote}

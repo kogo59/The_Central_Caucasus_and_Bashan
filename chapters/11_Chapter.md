@@ -1129,9 +1129,6 @@ a luxurious pillow.
 
 :::
 
-
-#### **Annotations** {.break-before .unnumbered}
-
 [^1100]: [Quite unconnected with Uschkul, the collective name of the highest group of hamlets in Suanetia, of which Jibiani is one.]{.footnote}
 
 [^1101]: [Any mountaineers who visit the Caucasus are likely to go to Uruspieh, and I may therefore, while on the subject of the routes leading to it, suggest an expedition which, in point of interest and fine scenery, would, I am sure, repay a mountaineer, and is very unlikely to prove impracticable, or even difficult. It is to ascend the valley opening due south of the village, and, turning to the right from its head, effect a pass over the glaciers into the glen, the torrent of which joins the Baksan halfway between Uruspieh and its source.]{.footnote}

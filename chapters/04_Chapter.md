@@ -958,7 +958,6 @@ interior of the country.
 
 :::
 
-#### **Annotations** {.break-before .unnumbered}
 
 [^0400]: [The political division of the Russian empire ruled by the Viceroy of the Caucasus, extends from the Manyteh, on the north, to the Araxes on the south. The provinces on the north of the great Caucasian chain are called Cis-Caucasia, those on the south Trans-Caucasia. Russians and natives of the country never restrict the name Caucasus to the mountain-range.]{.footnote}
 

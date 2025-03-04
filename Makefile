@@ -20,8 +20,8 @@ METADATA_ARG = --metadata-file=$(METADATA)
 METADATA_PDF = chapters/preface/metadata_pdf_html.md
 PREFACE_EPUB = chapters/preface/titel_epub.md chapters/preface/00_Preface_epub.md
 PREFACE_HTML_PDF = chapters/preface/titel_epub.md chapters/preface/00_Preface_pdf_html.md
-ARGS = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) $(METADATA_ARG) --reference-location=document
-ARGS_HTML = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) --reference-location=document --metadata=lang:de $(METADATA_PDF)
+ARGS = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) $(METADATA_ARG) --reference-location=section
+ARGS_HTML = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) --reference-location=section --metadata=lang:de $(METADATA_PDF)
 #CALIBRE="../../calibre/Calibre Portable/Calibre/"
 #CALIBRE = "C:/Program Files/Calibre2/"
 CALIBRE=""

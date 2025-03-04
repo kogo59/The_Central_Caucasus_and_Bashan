@@ -904,7 +904,6 @@ comprehension of, the common Caucasian intellect.
 
 :::
 
-#### **Annotations** {.break-before .unnumbered}
 
 [^0800]: [Tuilsas Mta of Herr Radde. Caucasian nomenclature is at present in a state of hopeless confusion. It has seemed to me best to follow in most cases the authority of the Five Verst Map, which the traveller will probably have in his hand. Herr Radde, who frequently differs from it, has not as yet published the result of his researches in the form of a corrected map of the Central Caucasus. I have avoided, as far as possible, encumbering my pages with such unpronounceable names as Sagebigora, Chrowlioto. Sarziwisdsiris Mta, Sopehitigoram Mta. All of these peaks look down an the sources of the Rion.]{.footnote}
 

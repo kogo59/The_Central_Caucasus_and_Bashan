@@ -717,7 +717,6 @@ succeeded in establishing.
 
 :::
 
-#### **Annotations** {.break-before .unnumbered}
 
 [^0700]: [I follow the most eminent modern geographers in considering the Caucasian watershed as part of the boundary between Europe and Asia. Though this conclusion has been for many years generally adopted, the public and their instructors are, as vet, scarcely awake to the necessary corollary that Mont Blanc and Monte Rosa must be regarded as usurpers, and that Elbruz and Kazbek, Koschtantau and Dychtau, are entitled to precedence on the roll of European mountains.]{.footnote}
 

@@ -1098,8 +1098,6 @@ those who possess the physical endurance necessary for an ascent of Mont Blanc.
 
 :::
 
-#### **Annotations** {.break-before .unnumbered}
-
 [^1300]: [Keith Johnston's ❛Dictionary of Geography.❜]{.footnote}
 
 [^1301]: [Travels in Georgia, Persia, and Kurdistan (Wagner, 1856).]{.footnote}
