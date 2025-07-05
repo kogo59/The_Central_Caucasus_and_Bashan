@@ -1,6 +1,6 @@
 # Travels in the Central Caucasus and Bashan
 
-<img align="right" height="150" src="https://github.com/kogo59/he_Central_Caucasus_and_Bashan/blob/main/images/cover.jpg">
+<img align="right" width="200" src="https://github.com/kogo59/he_Central_Caucasus_and_Bashan/blob/main/images/cover.jpg">
 
 This is a git repository of the source files for the book "Travels in the Central Caucasus and Bashan".
 
