@@ -177,8 +177,8 @@ the glen, seemed the spot most likely to offer the view we wanted, and the scene
 which burst upon us on reaching it so far exceeded and differed from our
 expectations that, at first, we could hardly realise its magnificence. The whole
 bed of the valley into which the glen fulls is filled by an immense glacier only
-surpassed in the Alps by the Aletsch.^[^0900]^ Its head was hidden behind nearer
-buttresses, but we had a good view of the ranges on its right bank.^[^0901]^ Opposite
+surpassed in the Alps by the Aletsch.<sup>[^0900]</sup> Its head was hidden behind nearer
+buttresses, but we had a good view of the ranges on its right bank.<sup>[^0901]</sup> Opposite
 rose a high and steep mountain-wall; higher up, looking in a south-easterly
 direction, an odd tower-shaped rock appeared in front of a long curtain of ice,
 surmounted, on the right, by a tall gracefully-shaped peak, and on the left by a
@@ -722,7 +722,7 @@ the attempt in despair; and finally arranged to engage seven men as porters, at
 assured us was generally made by hunters in three days. We enquired about a pass
 named in the Five Verst Map, and laid down as leading up the glen of the
 Tchosura, and over the main chain, into the valley of the Uruch: it was
-described as very much of the same character as the Gurdzieveesk Pass.^[^0902]^
+described as very much of the same character as the Gurdzieveesk Pass.<sup>[^0902]</sup>
 
 The heavy rain, which continued to fall all day, caused the Rion to rise very
 rapidly, and to threaten with destruction the bridge below the village, the
@@ -893,7 +893,7 @@ map he makes out that it must be somewhere near the source of the Rion: the only
 mountain well known there is, he is told, the Pass-Mta, so, putting two and two
 together, he settles that the great wall of ice which has attracted his
 attention, and which is in reality the southern face of the Koschtantau group,
-must be the Pass-Mta of the people of Gebi.^[^0903]^ This portion of the chain is the one
+must be the Pass-Mta of the people of Gebi.<sup>[^0903]</sup> This portion of the chain is the one
 which seems most completely to have puzzled geographers, and many books and maps
 fall into the serious error of representing the Zenes-Squali as rising entirely
 on the southern side of a spur of the main chain. They thus deceive a traveller,
@@ -933,7 +933,7 @@ trees. On emerging into a glade, we did not find our condition much bettered by
 the change. Although at a distance, and when seen from above, the smooth and
 flowery surface had suggested no difficulties, we now found that it was composed
 of a dense growth of umbelliferous plants, growing to an average height of six
-feet above the ground.^[^0904]^ We were at first at a loss whether to admire the
+feet above the ground.<sup>[^0904]</sup> We were at first at a loss whether to admire the
 extraordinary luxuriance of the cloak which nature has spread over the soil in
 this mountain region, or to grumble at the toil it cost us to make each step in
 advance; but the latter sentiment soon gained the mastery.
@@ -958,7 +958,7 @@ snow-shoes. They form a party, consisting of as many as forty or fifty hunters,
 surround a large tract of country, and drive the game together. In this way
 thirty-one bouquetin were killed in one day in the winter of 1863/64.
 
-:::: { .wrap-80 .caption }
+:::: { .wrap-80 .caption .align-center }
 ![Source of the Eastern Zenes-Squali.](The_Central_Caucasus_and_Bashan_0282.jpg "Source of the Eastern Zenes-Squali."){#b282}
 ::::
 
@@ -1034,7 +1034,7 @@ everywhere remarkable.
 Heavy rain now began, and continued to fall for the rest of the day. Our guides
 seemed confident in their knowledge of the right direction through this
 wilderness, and tramped on with praiseworthy perseverance, diverting the tedium
-of the march, sometimes by raising a wild monotonous chaunt,^[^0905]^ led by one man,
+of the march, sometimes by raising a wild monotonous chaunt,<sup>[^0905]</sup> led by one man,
 with a refrain taken up in succession by his companions — sometimes by
 excursions in quest of the stalks of a huge umbelliferous plant, for which their
 appetite seemed insatiable. Each man must have cut and peeled for himself
@@ -1094,7 +1094,7 @@ of the day. Wrapping ourselves round in the driest folds of our rugs, which
 shared in the general humidity, we composed ourselves for the night, in hopes
 that the rainstorm of the day had been too heavy to last.
 
-:::: { .wrap-80 .caption }
+:::: { .wrap-80 .caption .align-center }
 ![Our Camp-fire in the Forest.](The_Central_Caucasus_and_Bashan_0289.jpg "Our Camp-fire in the Forest."){#b289}
 ::::
 
@@ -1174,7 +1174,7 @@ chapter.
 
 :::
 
-[^0900]: [Herr Abich alludes to this glacier in the following terms:— ❛A superb glacier of the first class descends on the north from the Adai-Khokh group between the ridges of Bordjoula and of Saourdaour. It is the Khaltschi-Don glacier. It is at least 1.500 feet broad, and traverses the forest region for a great distance. Approaching the village of Zenaga, it descends to a Level of 5,700 feet, the lowest point known to be reached by any Caucasian glacier.❜]{.footnote}
+[^0900]: [Herr Abich alludes to this glacier in the following terms: — ❛A superb glacier of the first class descends on the north from the Adai-Khokh group between the ridges of Bordjoula and of Saourdaour. It is the Khaltschi-Don glacier. It is at least 1.500 feet broad, and traverses the forest region for a great distance. Approaching the village of Zenaga, it descends to a Level of 5,700 feet, the lowest point known to be reached by any Caucasian glacier.❜]{.footnote}
 
 [^0901]: [The torrent issuing from it is called the Karagam, a name which seems the most appropriate for the glacier.]{.footnote}
 
@@ -1182,6 +1182,6 @@ chapter.
 
 [^0903]: [I have been confirmed in this theory, since I wrote the above, by seeing, in the Atlas to Dubois de Montpereux' ❛Caucase,❜ a profile of the Caucasian chain, in which the outline of Tau Tötönal and the Jibiani peaks is elearly given, and the name Pass-Mta is applied to them.]{.footnote}
 
-[^0904]: [According to Herr Radde (who is an eminent botanist), this phenomenon of the vegetable world is thus produced :— ❛The frosts of autumn kill down the summer's growth, and leave it rotting on the ground; the rich soil formed by its decay is covered by the winter snows, often to a depth of thirty feet. As spring advances, the water of the melting snow percolates the ground, and when it s at last laid bare to the warm rays of a Caucasian sun, the herbs spring from the saturated soil, as from a hotbed.❜ Whatever may be the cause, it is certain that the Zenes-Squali would gain a prize tor weeds anywhere.]{.footnote}
+[^0904]: [According to Herr Radde (who is an eminent botanist), this phenomenon of the vegetable world is thus produced : — ❛The frosts of autumn kill down the summer's growth, and leave it rotting on the ground; the rich soil formed by its decay is covered by the winter snows, often to a depth of thirty feet. As spring advances, the water of the melting snow percolates the ground, and when it s at last laid bare to the warm rays of a Caucasian sun, the herbs spring from the saturated soil, as from a hotbed.❜ Whatever may be the cause, it is certain that the Zenes-Squali would gain a prize tor weeds anywhere.]{.footnote}
 
 [^0905]: [Herr Radde has been at the pains to collect and translate many of these songs, which seem to possess more meaning and merit than would be imagined by a person hearing, for the first time, the succession of gutturals and uncouth exclamations of which they consist.]{.footnote}

@@ -4,10 +4,10 @@
 
 :::: fs-xs
 The English Soldier — A Mountain Ride — Es-Salt — Lost on the Hills — The Jabbok
-— Camp of the Beni-Hassan— Suppressing a Sheikh — The Oak Forests of Gilead —
+— Camp of the Beni-Hassan — Suppressing a Sheikh — The Oak Forests of Gilead —
 The Tablelands — An Uxorious Sheikh — Derat — The Roman Road — The Robbers
-repulsed — Ghusam — Bozrah — Honoured Guests — A Ramble in the Ruins —Kureiyeh—
-Patriarchal Hospitality — Hebran — A Stone House — Kufr— Ascent of El-Kleib —
+repulsed — Ghusam — Bozrah — Honoured Guests — A Ramble in the Ruins — Kureiyeh—
+Patriarchal Hospitality — Hebran — A Stone House — Kufr — Ascent of El-Kleib —
 Suweideh — Kunawat — Noble Ruins — Shuhba — Hades on Earth — Visiting
 Extraordinary — The Lejuh — A Lava Flood—Ahireh — Khubab — A Rush to Arms — The
 Stolen Mule — A Village in Pursuit — Mismiyeh — The ❛Giant Cities❜ are Roman
@@ -31,7 +31,7 @@ escort they would be happy to furnish, and that any harm which might happen to
 us would be on our own heads. Our minds, however, were already made up, and we
 turned a deaf ear to his arguments.
 
-:::: { .wrap-80 .caption .break-before}
+:::: { .wrap-80 .caption .align-center .break-before}
 ![&nbsp;](The_Central_Caucasus_and_Bashan_0016.jpg ""){#b016}
 ::::
 
@@ -371,7 +371,7 @@ conclusion in capital time. Mr. Porter says that the dwellers on the Haj road
 (the route of the yearly caravan from Damascus to Mecea) are remarkable for
 their fanatical hostility to Europeans; we felt, therefore, some doubts as to
 what the character of our reception would be. A meadow north of the village, and
-near the pond which supplied the only water in the neighbourhood,^[^0200]^ was
+near the pond which supplied the only water in the neighbourhood,<sup>[^0200]</sup> was
 selected for our camping ground. After our tents were pitched, two of the party,
 finding that the people appeared a remarkably mild and inoffensive though
 inquisitive race, walked off to explore the village. It was of the usual ruinous
@@ -556,7 +556,7 @@ presented them to the astonished soldier.
 the view of the plain. Large flocks were being driven out to pasture; as we
 watched them, and gazed over the wide expanse of cultivated land we had ridden
 through from Derat, we were naturally led to contrast the facts under our eyes
-with the desolation described by Mr. Porter, and to indulge in a hope —which
+with the desolation described by Mr. Porter, and to indulge in a hope — which
 even the most ardent enthusiast for the fulfilment of prophecy might share —
 that better times may be in store for Bashan.
 
@@ -632,7 +632,7 @@ resting-place, dwarf oaks clothed the hillsides; and though, being unprovided
 with magnifying glasses or poetical imaginations, we failed to discover the
 ❜dizzy crags❜ and ❜deep ravines❜ described by a previous traveller, the
 landscape redeemed itself from the charge of actual ugliness. We met many
-parties of villagers on the road —some returning from labour in the fields,
+parties of villagers on the road — some returning from labour in the fields,
 others driving laden donkeys. The position of Hebran itself is really fine. It
 stands out boldly on a spur of the mountains, if a range rising less than 3,000
 feet from the tablelands at their base may be dignified by the name. From the
@@ -721,7 +721,7 @@ of an ancient house; the masonry was extraordinarily massive, like that of a
 Cyclopean wall, and the building impressed us with the appearance of greater
 antiquity than any other we saw in the Hauran. We then continued our journey,
 and crossing the stream, which flows in a deep bed on the north side of the
-town, rode up to a fine Roman tomb, erected by a husband to his wife.^[^0201]^ A
+town, rode up to a fine Roman tomb, erected by a husband to his wife.<sup>[^0201]</sup> A
 broad track led us over the bare spurs, through which the hills sink down into
 the plain, to Atil. Here there are the ruins of two diminutive but exquisitely
 decorated temples. The immense size of the stones employed in the construction
@@ -1058,7 +1058,7 @@ shot in their guns for bullets, with a military air which must have struck
 terror into the heart of the boldest Bedouin. No opportunity, however, occurred
 for the display of valour, and we had to content ourselves with the amusement of
 watching the shepherds driving in their flocks hurriedly from the plain, and the
-villagers issuing forth in twos and threes — some mounted, some on foot— in
+villagers issuing forth in twos and threes — some mounted, some on foot — in
 quest of the marauders. Of course nothing was seen of them, and we continued our
 march in peace.
 

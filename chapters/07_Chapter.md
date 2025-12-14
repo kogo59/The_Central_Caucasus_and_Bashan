@@ -7,7 +7,7 @@ Start for the Mountains — The Pass of the Caucasus — Kazbek Poststation — 
 Governors — A Reconnaissance inforce — Legends — Avalanches — The Old Men's
 Chorus — Men in Armour — Our Bivouac — A Critical Moment — Sealing an Icewall
 —The Summit — The Descent — A Savage Glen — A Night with the Shepherds — Return
-to the Village —Caucasian Congratulations.<br /><br />
+to the Village — Caucasian Congratulations.<br /><br />
 ::::
 
 WHEN our vehicle drove into the courtyard, we, ignorant still of the utter
@@ -134,7 +134,7 @@ course now followed. The grass and flowers were most luxuriant, owing to
 quantity of springs which burst out of the ground on all sides. There is little
 distant view from the summit, on which is a stone refuge. The Krestowaja Gora
 (or Kreuzberg, as translated on German maps) is the real name of the pass over
-the chain of the Caucasus leading from Asia into Europe:^[^0700]^ the ordinary name of
+the chain of the Caucasus leading from Asia into Europe:<sup>[^0700]</sup> the ordinary name of
 ❛Dariel❜ road is only so far appropriate that the defile of Dariel is the most
 striking natural feature between Vladikafkaz and Tiflis. If the pass of the
 Splugen from Chur to Chiavenna was ordinarily termed the ❛Via Mala road,❜ it
@@ -162,7 +162,7 @@ pinnacle of rock on our right reminded me of a Tyrolese dolomite, while the
 trough-like character of the valley, and the stern barrenness of the scenery,
 carried Moore’s thoughts back to Dauphiné.
 
-:::: { .wrap-100 .caption }
+:::: { .wrap-100 .caption .align-center }
 ![KAZBEK FROM POST STATION.](The_Central_Caucasus_and_Bashan_0184.jpg "KAZBEK FROM POST STATION."){#b184}
 ::::
 
@@ -194,7 +194,7 @@ than anyone else. This worthy seemed to our eyes a feeble creature, but as no
 one else was forthcoming, and it was not probable that we should put his ability
 to a very severe trial, he was engaged to be our pioneer on the morrow.
 
-*June 29th.* —We were up betimes, and starting before 5 A.M., on as fine a
+*June 29th.* — We were up betimes, and starting before 5 A.M., on as fine a
 morning as ever rejoiced the heart of a mountaineer, climbed to an old church
 perched on a lofty brow 1,500 feet above the village. This building is regarded
 with great reverence by the inhabitants, and is made an object of pilgrimage;
@@ -311,7 +311,7 @@ by which the lazy feed on the simplicity of others.❜
 
 The name by which the mountain is now known, and which has been apparently
 accepted by geographers, to the exclusion of several more or less
-unpronounceable native titles,^[^0701]^ is, like Elbruz, of Russian origin. A certain
+unpronounceable native titles,<sup>[^0701]</sup> is, like Elbruz, of Russian origin. A certain
 Prince Kazbek, or Kasibeg, who lived in the village of St. Stephen (the present
 Kazbek), was one of the first of the mountaineers to perceive that his best
 policy was to recognise a *fait accompli,* to embrace Christianity, and to
@@ -360,7 +360,7 @@ build a wall in front of the glacier, to prevent its further advance. That
 inundations issuing from the glen of Devdorak have from time to time seriously
 injured the Dariel road, is undoubted; but the notion of their recurrence at
 fixed intervals, and the supposition that the injury was caused by avalanches,
-are equally ridiculous.^[^0702]^
+are equally ridiculous.<sup>[^0702]</sup>
 
 Attempts to ascend Kazbek have not been numerous. Klaproth claims to have got
 halfway up, but, as he admits that he did not reach the snow-level, the halfway
@@ -408,7 +408,7 @@ the bargain with an honesty and good-humour which led us to form an unluckily
 premature estimate of the general character of the people with whom we should
 afterwards have to deal.
 
-:::: { .wrap-70 .caption }
+:::: { .wrap-70 .caption .align-center }
 ![Mountaineers in Armour.](The_Central_Caucasus_and_Bashan_0195.jpg "Mountaineers in Armour."){#b195}
 ::::
 
@@ -447,7 +447,7 @@ in its turn by a violent wind, which, when we retired for the night, about 7
 o’clock, was roaring in a way suggestive of anything rather than an ascent of
 Kazbek next morning.
 
-:::: { .wrap-70 .caption }
+:::: { .wrap-70 .caption .align-center}
 ![KAZBEK FROM THE SOUTH.](The_Central_Caucasus_and_Bashan_0197.jpg "KAZBEK FROM THE SOUTH."){#b197}
 ::::
 
@@ -567,7 +567,7 @@ the commencement of our difficulties our minds had been troubled about how we
 should get down, though, fortunately for our success, they had been more
 pressingly occupied with the business of the ascent. Now, however, the question
 had to be fairly faced — how were we to descend the ice-slope we had climbed
-with so much difficulty? With a strong party— that is, a party with a due
+with so much difficulty? With a strong party — that is, a party with a due
 proportion of guides, and when good steps can be cut — there is no more delicate
 mountaineering operation than the descent of a really steep iceslope. Our party
 was not a strong one, and on this particular slope it was practically impossible

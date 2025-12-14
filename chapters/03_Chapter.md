@@ -4,7 +4,7 @@
 
 :::: fs-xs
 Damascus — Bazaars and Gardens — An Enthusiastic Freemason — Snowstorm on
-Anti-Lebanon — Baalbee — An  Alpine Walk — The Cedurs— Return to Beyrout —
+Anti-Lebanon — Baalbee — An  Alpine Walk — The Cedurs — Return to Beyrout —
 Cyprus and Rhodes — Smyrna — The Valley of the Maeander — Excavations at Ephesus
 — Constantinople — The Persian Khan — May-Day at the Sweet Waters — Preparations
 for the Caucusus.<br /><br />
@@ -179,7 +179,7 @@ with sarcophagi and funeral inscriptions. When we were there he believed himself
 to have settled, within a square mile, the position of the Temple of Diana, and
 seemed quite confident of turning it up sooner or later.
 
-Our second excursion was to Manissa (Magnesia ad SipyJum), a fine Turkish town
+Our second excursion was to Manissa (Magnesia ad Sipyum), a fine Turkish town
 built on a steep slope at the base of the splendid erags of Mount Sipylus. We
 drove on several miles, in a Turkish cart, to see the statue called Niobe, a
 rude figure, probably of Egyptian origin, carved on the face of a cliff. On the

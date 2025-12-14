@@ -4,7 +4,7 @@
 
 :::: fs-xs
 Borjom — Bad Road — Beautiful Scenery — Achaltzich — Across the Hills —
-Abastuman — A Narrow Valley —The Burnt Forest —Panorama of  the Caucasus — Last
+Abastuman — A Narrow Valley — The Burnt Forest — Panorama of  the Caucasus — Last
 Appearance of Kazbek and Elbruz — A Forest Ride — Baglad — Mingrelian
 Hospitality — A French Baron's Farm — The Rion Basin —  Kutais — The Postmaster
 — Poti — A Dismal Swamp — Soukhoum-Kalé — Sevastopol — The Battlefields — The
@@ -39,7 +39,7 @@ apparently never driven anything but a cart, and who was with the greatest
 difficulty persuaded to put on the drag in going downhill, even after one of his
 horses had fallen.
 
-:::: { .wrap-70 .caption }
+:::: { .wrap-70 .caption .align-center }
 ![Grand-Ducal Villa at Borjom.](The_Central_Caucasus_and_Bashan_0466.jpg "Grand-Ducal Villa at Borjom."){#b466}
 ::::
 
@@ -79,7 +79,7 @@ do not require any very violent course of mineral waters.
 At Pätigorsk at least two-thirds of the society are real invalids; here we saw
 scarcely any, and the Russian young ladies who raced about the gardens, and
 chatted together in excellent English, afforded a more pleasing spectacle than
-the sickly officers and decrepit old men of the CisCaucasian Spa. An excellent
+the sickly officers and decrepit old men of the Cis-Caucasian Spa. An excellent
 military band, by far the best we heard in the Caucasus, played in the gardens
 about sunset, and we had the satisfaction of hearing the ❛Mabel Waltzes❜ (the
 popularity of which seems unbounded in Russia) and the overture to ❜The
@@ -364,7 +364,7 @@ two oxen, and laden with one of the huge earthenware jars used for storing wine,
 which will scarcely fail to recall to the traveller’s mind the story of the
 Forty Thieves in the ❛Arabian Nights.❜
 
-:::: { .wrap-70 .caption }
+:::: { .wrap-70 .caption  .align-center}
 ![Mingrelian Wine Jar.](The_Central_Caucasus_and_Bashan_0479.jpg "Mingrelian Wine Jar."){#b479}
 ::::
 
@@ -402,7 +402,7 @@ Radscha and over the Mamisson Pass to Vladikafkaz. Many of the officers, who had
 come from country posts to meet him, were still in the place, and there were,
 besides, an unusual number of travellers awaiting the departure of the next
 steamer from Poti. Amongst them were two gentlemen, who had, like ourselves,
-been engaged in exploring the Caucasus— Mons. Favre, the son of the well-known
+been engaged in exploring the Caucasus — Mons. Favre, the son of the well-known
 Genevese geologist, and Mons. Desrolles, an entomologist, whom the natives had
 facetiously nicknamed the ❛Father of Flies.❜ The extent of their excursions in
 the mountains had been to cross the Mamisson Pass and ride up to Uruspieh, We

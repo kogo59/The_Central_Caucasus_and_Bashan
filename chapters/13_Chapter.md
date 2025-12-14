@@ -527,7 +527,7 @@ the old horse-track — a mere shelf cut in the rock on the left bank of the riv
 basalt-crag, which rise tier upon tier to a height of at least 5,000 feet above
 the level of the Terek.
 
-:::: { .wrap-70 .caption .break-before}
+:::: { .wrap-70 .caption .break-before .align-center}
 ![Fort of Dariel.](The_Central_Caucasus_and_Bashan_0442.jpg "Fort of Dariel."){#b442}
 ::::
 
@@ -633,11 +633,11 @@ relations of its groups. Those who did give information on the subject
 contradicted one another in the most emphatic manner, and only increased the
 perplexity of the reader. We learnt from one writer: ❛The mountains of the
 Caucasus are not peaked, as in the Alps, but are either flat or cup-shaped; the
-existence of glaciers is uncertain.❜^[^1300]^ We read in another: ❛Neither the Swiss
+existence of glaciers is uncertain.❜<sup>[^1300]</sup> We read in another: ❛Neither the Swiss
 Alps, the Taurus, Atlas, Balkan, Apennine, or any of the well-known mountains of
 Europe, have such furrowed and broken, rocky and snowy precipices, or such bold
 peaks, as the giants of the main chain of the Caucasus. The Orientals have
-rightly named these mountains the “thousand-pointed.”❜^[^1301]^
+rightly named these mountains the “thousand-pointed.”❜<sup>[^1301]</sup>
 
 The first-quoted opinion seemed the most popular, and many of our friends in
 England smiled at our idea of setting out to climb in a region where, as they
@@ -809,7 +809,7 @@ that the rocks of both Kazbek and Elbruz are igneous. I do not think that anyone
 who having once been an active volcano. The limestone ridge on the north of the
 watershed is more abrupt, and the gorges cut through it have bolder features
 than those of the secondary ridges of Mingrelia, where the rock is more friable,
-and steep slopes take the place of cliffs.^[^1302]^
+and steep slopes take the place of cliffs.<sup>[^1302]</sup>
 
 I have hitherto spoken only of that portion of the country with which we became
 personally familiar, the 120 miles between Kazbek and Elbruz, and it must
@@ -827,7 +827,7 @@ rising to a height of over 13,000 feet.
 
 Having said thus much of the natural features of the Caucasus, we may now review
 its inhabitants. The diverse character of the mountain-tribes renders any
-general description of them a work of extreme difficulty.^[^1303]^ Even in the
+general description of them a work of extreme difficulty.<sup>[^1303]</sup> Even in the
 small portion of the chain we visited, leaving out, Abkhasia, all but a corner
 of the Tcherkess country (the true Circassia), and Daghestan, the scene of
 Schamyl’s final resistance and capture, we encountered three entirely distinct
@@ -837,7 +837,7 @@ have long been a puzzle to ethnologists. The language of the latter, according
 to Sir Henry Rawlinson, is the most nearly allied to Sanscrit spoken west of the
 Indus. The other mountaineers use dialects of Tartar and Georgian so diverse
 that the people of one valley often have difficulty in understanding those of
-the next, although nominally speaking the same language.^[^1304]^
+the next, although nominally speaking the same language.<sup>[^1304]</sup>
 
 The religions of the Caucasus are as various as its languages. As a rule,
 whatever religion exists on the south side of the chain is called Christian, and
@@ -872,7 +872,7 @@ they are greedy of illgotten gain, and careless of life in its pursuit. This
 conclusion as to their character is the result of our own experience, but it is
 confirmed by that of other travellers, even from remote times. Thus Chardin,
 writing nearly 200 years ago, says: ❛The women of Mingrelia are extremely civil,
-but otherwise the wickedest in the world,— haughty, furious, perfidious,
+but otherwise the wickedest in the world, — haughty, furious, perfidious,
 deceitful, cruel, and impudent — so that there is no sort of wickedness they
 will not put in execution. The men are endowed with all these mischievous
 qualities, with some addition. There is no wickedness to which their
@@ -880,7 +880,7 @@ inclinations will not naturally carry them, — but all are addicted to thieving
 That they make their study — that they make their whole employment, their
 pastime, and their glory. Assassination, murder, and lying are among them
 esteemed to be noble and brave actions, and for all other vices, they are
-virtues in Mingrelia.❜^[^1305]^
+virtues in Mingrelia.❜<sup>[^1305]</sup>
 
 Haxthausen, whose work was published in 1854, writes: ❛The Russian officers,
 civil and military, all agreed in describing live people of this country,

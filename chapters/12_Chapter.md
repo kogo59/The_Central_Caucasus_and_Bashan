@@ -96,7 +96,7 @@ German savants to reach the top, and the supposed success of Killar in doing so.
 The story is, of course, written in Russian characters; we asked our companion,
 Dr. Smirnov, the head-physician, what it meant, and his reply was, ❛Bah! c’est
 une bétise.❜ Our own reasons for doubting Elbruz having found its Jacques Balmat
-in Killar, I have entered into elsewhere.^[^1200]^
+in Killar, I have entered into elsewhere.<sup>[^1200]</sup>
 
 The ridge which forms the southern boundary of the hollow in which the baths are
 situated is of a very extraordinary character. According to Dr. Smirnov, whose
@@ -655,7 +655,7 @@ which a row of coins hangs down over the forehead. There was certainly one
 pretty face amongst them, and there may have been more, but no second
 opportunity of seeing any of the beauties occurred during our stay.
 
-The Sheikh^[^1201]^ himself, a tall venerable-looking old man, came forward to invite
+The Sheikh<sup>[^1201]</sup> himself, a tall venerable-looking old man, came forward to invite
 us to his house, which, like all the rest, was a low one-storied building, with
 a portico, supported on massive trunks, running along the whole of the front. At
 one end was a small room reserved for the reception of strangers, which we were
@@ -790,7 +790,7 @@ and were induced to climb the great hillside which rose steeply on our right. We
 soon reached the level of the mists, and in half-an-hour had left them far below
 us, and were enjoying unclouded sunshine.
 
-:::: { .wrap-70 .caption .break-before}
+:::: { .wrap-70 .caption .break-before .align-center}
 ![Peak in the Tcherek Valley.](The_Central_Caucasus_and_Bashan_0411.jpg "Peak in the Tcherek Valley."){#b411}
 ::::
 

@@ -3,7 +3,7 @@
 ::: justified
 
 :::: fs-xs
-The Banks of the Kur — Troops on the March— A Romantic Valley — Delidschan — A
+The Banks of the Kur — Troops on the March — A Romantic Valley — Delidschan — A
 Desolate Pass — The Gokcha Lake — Ararat — Erivan — The Kurds — The Valley of
 the Araxes — A Steppe Storm — A Dangerous Ford — Nakhitchevan — A Money Question
 — Djulfa — Charon’s Ferry and a Modern Cerberus — A Friend in Need — A Persian
@@ -23,7 +23,7 @@ run along the Kur valley, is yet unfinished, and we had to make a détour of fou
 stages, over low hills and high plains, before we rejoined the river. The steppe
 was fortunately, for once, in fair driving order, and we made good progress. A
 curious circular hollow, containing a lake at its lower end, is crossed before
-reaching Kody, the second station, distant twenty-seven versts^[^0500]^ from
+reaching Kody, the second station, distant twenty-seven versts<sup>[^0500]</sup> from
 Tiflis by the road, but only twelve by the short cut over the hills, which we
 made a great zigzag to avoid. At the third posthouse we crossed a small stream,
 the Algeth, and stopped half an hour to lunch on cold turkey; for we had
@@ -347,7 +347,7 @@ about 3,500 feet below the top, by a huge rock-tooth. The snow-dome falls away
 gently towards the north for some distance, and supports a large névé-plateau,
 below which the mountain breaks down steeply for several thousand feet.
 
-:::: { .wrap-100 .caption }
+:::: { .wrap-100 .caption .align-center }
 ![ARARAT.](The_Central_Caucasus_and_Bashan_0124.jpg "Ararat"){#b124}
 ::::
 
@@ -608,7 +608,7 @@ paper-money would be useless beyond the frontier, and consequently had to change
 into tomans (a rude silver coin about the size and value of a franc) a sum
 sufficient for the next two days’ journey.
 
-From Djulfa toTabreez is distance of about ninety miles, which is divided into
+From Djulfa to Tabreez is distance of about ninety miles, which is divided into
 four stages. In Persia, as throughout the East where Russian influence has not
 yet introduced that doubtful luxury of civilisation, the ❛telega,❜ wheeled
 carriages are the exception, and all the traffic and commerce of the country is

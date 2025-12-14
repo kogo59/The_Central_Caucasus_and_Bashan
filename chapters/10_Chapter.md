@@ -226,7 +226,7 @@ rags. The children were wild-looking ragamuffins, with matted locks, and ran
 about half-naked, clad in one tattered garment of old cloth or sacking; some of
 the girls had the most savage faces, more like brute animals than human beings.
 
-:::: { .wrap-80 .caption }
+:::: { .wrap-80 .caption .align-center }
 ![A Native of Jibiani.](The_Central_Caucasus_and_Bashan_0300.jpg "A Native of Jibiani."){#b300}
 ::::
 
@@ -533,7 +533,7 @@ last few minutes of the ascent, an apparently lofty snow-peak showed just enough
 of its head, over the bank we were climbing, to stimulate our curiosity, but in
 no way prepared us for the magnificent scene which burst into view from the
 summit. The first thing which fixed our attention was the icefall of the Adisch
-glacier.^[^1000]^ Unlike the glaciers supplying the two eastern sources of the Ingur,
+glacier.<sup>[^1000]</sup> Unlike the glaciers supplying the two eastern sources of the Ingur,
 which are fed only by the snow lodged on shelves of the cliffs that surround
 them, the Adisch glacier is the outflow of large reservoirs of frozen snow,
 invisible from below, and lying at the back of the line of precipitous peaks we
@@ -703,7 +703,7 @@ The nature of the path did not disturb the even tenor of our thoughts; its
 makers, with remarkable ingenuity, had carried it first on one, then on the
 other, side of the brow, and it was for a long time almost level and free from
 stones. At length it turned down the northern side of the ridge, as if to
-descend to Mushalaliz; but, desirous of gaining Suni,^[^1001]^ in the other valley, we
+descend to Mushalaliz; but, desirous of gaining Suni,<sup>[^1001]</sup> in the other valley, we
 plunged, under the guidance of our porters, into the thickets, and soon hit
 another track remounting to the left.
 
@@ -768,7 +768,7 @@ climate. We descended (I believe unnecessarily) in order to pass through a lower
 hamlet, at which one of our horsemen had a message to leave, and then faced a
 steep and apparently interminable climb, through a beautiful forest, thick
 enough to shut out all but occasional glimpses into the bed of the Ingur. The
-only new feature in the foliage was the prevalence of pines,^[^1002]^ which are seldom
+only new feature in the foliage was the prevalence of pines,<sup>[^1002]</sup> which are seldom
 found near the heads of the Caucasian valleys. Numerous sledge-tracks branched
 off up the hill, and fear of missing the way obliged us to keep close company
 with our sluggish horsemen.
@@ -946,7 +946,7 @@ and our host forgot his threats of not allowing us to leave till his demands
 were satisfied to the full, and bade us farewell with an air of mingled fear and
 relief.
 
-:::: { .wrap-80 .caption }
+:::: { .wrap-80 .caption .align-center }
 ![Tau Tötönal from above Latal.](The_Central_Caucasus_and_Bashan_0328.jpg "Tau Tötönal from above Latal."){#b328}
 ::::
 
@@ -965,7 +965,7 @@ Moore, however, hurried me on to where he was sitting with Francois, 100 yards
 in advance, apparently gazing in a state of astonishment, that for the moment
 rendered them unable to express their feelings, at some castle in the air.
 
-:::: { .wrap-70 .caption }
+:::: { .wrap-70 .caption .align-center }
 ![Uschba from above Latal.](The_Central_Caucasus_and_Bashan_0329.jpg "Uschba from above Latal."){#b329}
 ::::
 
@@ -1009,7 +1009,7 @@ hunger.
 The villages of Betscho are castellated; one of them, the Mazer of the Five
 Verst Map, is of large size, and looks very picturesque from a distance. Turning
 at length down the glen, we retraced our steps at a lower level along the grassy
-banks of the Betscho-Tshalai,^[^1003]^ until nearly opposite a hamlet named Doli, on the
+banks of the Betscho-Tshalai,<sup>[^1003]</sup> until nearly opposite a hamlet named Doli, on the
 right bank of the stream. to which we crossed by a good bridge. As long as we
 were in the Betscho glen, the forest was still dense, and the foliage varied;
 but when, after a tedious ascent, we rounded the brow that overlooks the

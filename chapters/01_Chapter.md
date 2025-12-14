@@ -43,8 +43,8 @@ accommodate himself to new scenes and unaccustomed modes of life. We had no
 reason to repent this decision.
 
 After a busy fortnight, spent in getting together the necessaries for our
-journey—which included a tent, waterproof saddlebags, a portable kitchen, and
-large quantities of Liebig’s soup—we left England on January 4th, 1868. We
+journey — which included a tent, waterproof saddlebags, a portable kitchen, and
+large quantities of Liebig’s soup — we left England on January 4th, 1868. We
 passed through the South of France in the most intense cold: at Avignon the
 Rhone was frozen from bank to bank, and the fountains at Marseilles were turned
 into masses of icicles. On January 8th we sailed for Egypt, on board the

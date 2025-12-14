@@ -4,7 +4,7 @@
 
 :::: fs-xs
 A Geographical Disquisition — The Upper Terek — Savage Scenery — Ferocious Dogs
-— Abano — A Dull Walk— Hard Bargaining — An Unruly Train — A Pass — Zacea, on
+— Abano — A Dull Walk — Hard Bargaining — An Unruly Train — A Pass — Zacea, on
 the Ardon — A Warm Skirmish and a Barren Victory — An Unexpected Climb — The
 Lower Valley  — A Russian Road — Teeb — The Ossetes — The Mamisson Pass — Adai
 Khokh — A Shift in the Scenery — Gurschavi — The Boy-Prince — An Idle Day —
@@ -153,7 +153,7 @@ village, where we found a clean upper room with two bedsteads. Supper was
 promised, and we had nothing to complain of in our reception, as a samovar was
 quickly brought and a fowl slaughtered for our benefit.
 
-:::: { .wrap-70 .caption }
+:::: { .wrap-70 .caption .align-center }
 ![An Ossete Village.](The_Central_Caucasus_and_Bashan_0213.jpg "An Ossete Village."){#b213}
 ::::
 
@@ -491,7 +491,7 @@ and a shabby or poor-looking man is hardly to be met with. Altogether it is
 impossible not to admit that their external appearance is some excuse for the
 title of ❛Gentlemen of the Mountains,❜ which Count Leverschoft gave them.
 
-:::: { .wrap-70 .caption }
+:::: { .wrap-70 .caption .align-center }
 ![An Ossete.](The_Central_Caucasus_and_Bashan_0227.jpg "An Ossete."){#b227}
 ::::
 
@@ -663,7 +663,7 @@ a strong wind, which was blowing in the upper region, we got a view, at one
 moment or another, of every section of it, although the whole was never quite
 clear at the same time. The first and most striking of all the summits before us
 occupied the position assigned on the Five Verst Map to the peak of Adai
-Khokh.^[^0800]^ Three long ribs of rock and ice ran up into a sharp point, and
+Khokh.<sup>[^0800]</sup> Three long ribs of rock and ice ran up into a sharp point, and
 created one of the most striking mountain-forms I ever saw. The rocks on the
 left-hand or north-west rib, seen though a telescope, were of the most
 formidable character, some of them appearing actually to overhang; and the other
@@ -719,7 +719,7 @@ beef. The prince and a friend accompanied us down to the road, where they took a
 final leave, and we saw no more of the jolliest boy in the Caucasus. The road
 down the valley keeps on the left bank of the river, and has to make long
 circuits round the ravines which furrow the lower slopes, above which sharp
-snow-streaked summits^[^0801]^ peered from time to time between the trees. The torrent
+snow-streaked summits<sup>[^0801]</sup> peered from time to time between the trees. The torrent
 falls very rapidly; the road descends more gently through the most magnificent
 pineforest, varied with birch, poplar, and elm, and carpeted with moss and a
 variety of subalpine flowers. Before reaching the point where the largest
@@ -755,7 +755,7 @@ any traces of comeliness, and the group, but for certain details of dress, was
 just such as might be met with in any Swiss valley.
 
 Before long Glola came into sight on the opposite side of the river, built at
-the mouth of a tributary stream^[^0802]^ which had its source in a glacier of the main
+the mouth of a tributary stream<sup>[^0802]</sup> which had its source in a glacier of the main
 chain, a portion of which was for a few minutes visible, and with which we were
 destined in a few days to become better acquainted. The bridge above the
 village, which existed at the time of Herr Radde’s visit, had gone the way of

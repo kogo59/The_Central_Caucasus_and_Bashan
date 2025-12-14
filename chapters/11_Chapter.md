@@ -3,14 +3,14 @@
 ::: justified
 
 :::: fs-xs
-A Captive Bear - Moore Harangues the Porters — Camp in the Forest — A Plague of
+A Captive Bear — Moore Harangues the Porters — Camp in the Forest — A Plague of
 Flies — Lazy Porters — A Nook in the Mountains — Cattle Lifting — Across the
 Chain in a Snowstorm — A Stormy Debate — A Log Hut — Baksan Valley — Uruspieh —
 The Guest House — Villany Rewarded — Minghi-Tau — An Idle Day — An Enlightened
 Prince — Passes to the Kuratchai — Tartar Mountaineers — A Night with the
 Shepherds — A Steep Climb — Camp on the Rocks — Great Cold — On the Snowfield —
 In a Crevasse — Frigid Despair — A Crisis — Perseverance Rewarded — The Summit —
-Panorama — The Return —Enthusiastic Reeeption — The Lower Baksan — A Long Ride —
+Panorama — The Return — Enthusiastic Reception — The Lower Baksan — A Long Ride —
 A Tcherkess Village — Grassy Downs —  Zonitzki — Pätigorsk.
 <br /><br />
 ::::
@@ -493,7 +493,7 @@ There are two routes into Suanetia — the one by which we had come, through the
 Nakra valley; and another leading up the glen, due south of Uruspieh, and
 crossing, as far as we could understand, to the Betscho district. This last,
 though higher than that which we had crossed, was said to be practicable for
-horses. The traveller desirous of reaching Utschkulau,^[^1100]^ the principal village in
+horses. The traveller desirous of reaching Utschkulau,<sup>[^1100]</sup> the principal village in
 the Karatchai district, has the choice of skirting the northern or southern
 flanks of Elbruz. If prepared to undertake on foot a glacierpass, he will go up
 to the sources of the Baksan, and traverse the range connecting Elbruz with the
@@ -509,7 +509,7 @@ lest the news of our success on Kazbek had stirred up the officials to endeavour
 to anticipate us by a prior assault on Elbruz. We never heard anything further
 of our supposed rivals, and if there was any truth in the story, it referred, I
 believe, only to a pleasure-party who had come up from Kislovodsk to look at the
-mountain.^[^1101]^
+mountain.<sup>[^1101]</sup>
 
 The princes promised that the necessary attendants for our expedition should be
 ready early in the morning, and also that they would supply us with large
@@ -528,7 +528,7 @@ elf-locks streaming out from beneath. The men cannot possess all the beauty of
 the races but as this is a Mahommedan country, the young wives and marriageable
 maidens are probably kept more or less in seclusion.
 
-:::: { .wrap-70 .caption }
+:::: { .wrap-70 .caption .align-center}
 ![Woman of Uruspieh.](The_Central_Caucasus_and_Bashan_0357.jpg "Woman of Uruspieh."){#b357}
 ::::
 
@@ -895,7 +895,7 @@ account and description of the summit given by the porters seemed to create a
 general belief in the reality of the ascent. The scene was most entertaining.
 The whole male population of the place crowded round us to shake hands, each of
 our companions found himself a centre of attraction, and the air rang with
-❛Allah❜ - seasoned phrases of exclamation and astonishment, mingled, as each
+❛Allah❜ — seasoned phrases of exclamation and astonishment, mingled, as each
 newcomer entered, and required to hear the tale afresh, with constant
 reiterations of ❛Minghi-Tau!❜ — a familiar name, which sounds far more grateful
 to my ear than the heavy-syllabled Elbruz.
@@ -907,7 +907,7 @@ wings, and to prevent the approach of men to the treasure he is set to guard, by
 attacking intruders with his beak and talons. We could not even pretend to have
 had an interview with the giants and genii believed to dwell in the clefts and
 caverns of Elbruz, concerning one of whom Haxthausen relates the following
-legend :— ❛An Abkhasian once went down into the deepest cavern of the mountain,
+legend: — ❛An Abkhasian once went down into the deepest cavern of the mountain,
 where he found a powerful giant, who said to him, "Child of man of the upper
 world, who hast dared to come down here, tell me how the race of man lives in
 the world above? Is woman still true to man? Is the daughter still obedient to
@@ -1119,11 +1119,11 @@ told, and we could scarcely believe how short a time before high sheep’s brain
 had been regarded as a delicacy, and a pair of shooting-boots and a revolver as
 a luxurious pillow.
 
-:::: { .wrap-100 .caption }
+:::: { .wrap-100 .caption .align-center}
 ![VIEW FROM STULEVEESK PASS.](The_Central_Caucasus_and_Bashan_0380a.jpg "VIEW FROM STULEVEESK PASS."){#b380a}
 ::::
 
-:::: { .wrap-100 .caption }
+:::: { .wrap-100 .caption .align-center}
 ![THE CAUCASUS FROM PÄTIGORSK.](The_Central_Caucasus_and_Bashan_0380b.jpg "THE CAUCASUS FROM PÄTIGORSK."){#b380b}
 ::::
 

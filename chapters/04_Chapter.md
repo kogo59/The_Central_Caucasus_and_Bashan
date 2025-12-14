@@ -1,4 +1,4 @@
-# CHAPTER IV.<br /><small> TRANSCAUCASIA.^[^0400]^ </small>{#four .unnumbered}
+# CHAPTER IV.<br /><small> TRANSCAUCASIA.<sup>[^0400]</sup> </small>{#four .unnumbered}
 
 ::: justified
 
@@ -42,7 +42,7 @@ in ordinary European clothes, and he was quite ready to accept such an
 engagement as we offered him; so a bargain was at once struck with him, and he
 promised to be ready to start on the following day.
 
-:::: { .wrap-90 .caption .break-before}
+:::: { .wrap-90 .caption .align-center .break-before}
 ![&nbsp;](The_Central_Caucasus_and_Bashan_0074.jpg ""){#b074} 
 ::::
 
@@ -418,7 +418,7 @@ detracts much from the charms of the modern Mingrelian belles, and the
 unfortunate spread of civilisation has led them into imitations of Parisian
 costumes which, as they are out of date by at least three years, are likely to
 find but little favour in a Western eye. Large crinolines, of the stiffest make,
-were in full vogue, and a devoted husband — surely in his honeymoon —was seen on
+were in full vogue, and a devoted husband — surely in his honeymoon — was seen on
 one occasion riding home, with his dagger and sword at his side, brandishing
 proudly in his hand an iron framework, destined to support the heavy skirts of
 his spouse. The only trace of local costume worn by the ladies, besides the
@@ -458,7 +458,7 @@ led down the opposite side of the hill to a narrow stream, over which a new
 bridge was being constructed. The road now ran over low wooded hills, the last
 spurs of the Caucasus, and offered a succession of charming views towards the
 Turkish or (to use a convenient name suggested by Mr, Palgrave) Anti-Caucasian
-chain^[^0401]^ — large rounded mountains, not unlike the Tuscan Apennines. The whole
+chain<sup>[^0401]</sup> — large rounded mountains, not unlike the Tuscan Apennines. The whole
 scenery was delightful, and the country vividly green and spring-like — a
 striking contrast to the bare brown regions, too common in the East. The
 azaleas, however, formed the distinguishing feature of the day’s drive; the
@@ -570,7 +570,7 @@ well knew where he was. Gargarepi is a large village buried in fruit-trees, with
 a handsome church. The drive into Gorl was hot and dusty; the road crosses the
 Kur, halfway, by a long wooden bridge. 
 
-:::: { .wrap-80 .caption }
+:::: { .wrap-80 .caption .align-center }
 ![A Georgian Church.](The_Central_Caucasus_and_Bashan_0096.jpg "A Georgian Church."){#b096}
 ::::
 
@@ -793,7 +793,7 @@ several shallow caves in the rocks which support the castle ruins, where the
 townspeople used frequently to resort for family picnics, a kind of
 entertainment beginning with a light meal and frequent passage of the
 loving-cup, and carried on by story-telling, music, and dancing, until late in
-the evening.^[^0402]^ The return home was a service of some danger, since the road is
+the evening.<sup>[^0402]</sup> The return home was a service of some danger, since the road is
 exceedingly steep, and the drivers were apt to refresh themselves at a wine-shop
 near the gates of the garden. Upsets and accidents used to be of frequent
 occurrence, and perhaps this, in conjunction with the making of the new gardens
@@ -830,7 +830,7 @@ the new bridge, a handsome stone structure of several arches, at one end of
 which stands a statue of the Prince Woronzoff, who did so much for Tiflis,
 Odessa, and the Crimea.
 
-:::: { .wrap-80 .caption }
+:::: { .wrap-80 .caption .align-center }
 ![The Georgian Castle, Tiflis.](The_Central_Caucasus_and_Bashan_0104.jpg "The Georgian Castle, Tiflis."){#b104}
 ::::
 

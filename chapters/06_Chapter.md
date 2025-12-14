@@ -433,7 +433,7 @@ remain at the huts, and await the arrival of the tent and provisions. Our
 position was curiously like and unlike many old Alpine bivouacs. The surrounding
 pastures might have been on the Riffelberg, and it was delightful to see again
 many well-known Alpine flowers. The rhododendron indeed was sought for in vain,
-and we were too low tor gentians^[^0600]^; but their lack was partially compensated by
+and we were too low tor gentians<sup>[^0600]</sup>; but their lack was partially compensated by
 a new friend, a dwarf wild hyacinth, white delicately streaked with blue, which
 grew in great profusion. Little Ararat, however, was sufficiently unlike a Swiss
 mountain to dispel any illusion, and if that had not sufficed, one glance down
@@ -555,7 +555,7 @@ have lost a species.
 Before long the snow took the form of hard névé, and it was necessary to cut
 steps. Francois was by this time so exhausted that he could do no more; Tucker,
 however, pushed on alone, and by cutting about 1,000 steps, succeeded in
-reaching a point a little under 16,000 feet.^[^0601]^ Such work, at a height equal to
+reaching a point a little under 16,000 feet.<sup>[^0601]</sup> Such work, at a height equal to
 that of Mont Blanc, cannot be continued for ever, without long training; his
 breath began to fail, and his head to throb painfully, so that he was obliged to
 rest every twenty or thirty steps. The tremendous staircase required to reach
@@ -649,7 +649,7 @@ horseback, to Etchmiadzin, Tucker, meantime. had been busy in the bazaar, in
 getting a light mattrass stuffed and made up, and in making other small
 provisions for our week’s ride across the hills to Tiflis.
 
-*June 13th.* —The ride to Itehmiadzin, despite the distant view of Ararat, is on
+*June 13th.* — The ride to Itehmiadzin, despite the distant view of Ararat, is on
 the whole a dull one. The road passes under the fortress of Erivan, which might
 perhaps be formidable to Asiatic troops, and crosses the stream from the Gotchka
 lake, which here flows in a picturesque ravine. There is an untidy botanical
@@ -735,7 +735,7 @@ with the stiflingly pungent smell of the stalls, the noise of the animals, and
 the determined inroads of fleas and other insects, we never passed a more
 miserable night.
 
-*June 15th.* —The hills were covered with a wet blanket of mist, and our last
+*June 15th.* — The hills were covered with a wet blanket of mist, and our last
 hope of Alagoz — the summit of which (13,436 feet), a rock-peak of the Piz
 Languard type, l had shown for a moment the previous evening — was extinguished.
 We rode on over intensely green upland pastures, surrounded by, if possible,
